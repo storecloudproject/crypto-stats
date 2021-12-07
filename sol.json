@@ -1,0 +1,3768 @@
+{
+  "solana": {
+    "transactions": [
+      {
+        "date": {
+          "date": "2020-03-19"
+        },
+        "transactionFee": 0
+      },
+      {
+        "date": {
+          "date": "2020-03-20"
+        },
+        "transactionFee": 0
+      },
+      {
+        "date": {
+          "date": "2020-03-21"
+        },
+        "transactionFee": 0
+      },
+      {
+        "date": {
+          "date": "2020-03-22"
+        },
+        "transactionFee": 0
+      },
+      {
+        "date": {
+          "date": "2020-03-23"
+        },
+        "transactionFee": 0
+      },
+      {
+        "date": {
+          "date": "2020-03-24"
+        },
+        "transactionFee": 0
+      },
+      {
+        "date": {
+          "date": "2020-03-25"
+        },
+        "transactionFee": 0
+      },
+      {
+        "date": {
+          "date": "2020-03-26"
+        },
+        "transactionFee": 0
+      },
+      {
+        "date": {
+          "date": "2020-03-27"
+        },
+        "transactionFee": 0
+      },
+      {
+        "date": {
+          "date": "2020-03-28"
+        },
+        "transactionFee": 0
+      },
+      {
+        "date": {
+          "date": "2020-03-29"
+        },
+        "transactionFee": 0
+      },
+      {
+        "date": {
+          "date": "2020-03-30"
+        },
+        "transactionFee": 0
+      },
+      {
+        "date": {
+          "date": "2020-03-31"
+        },
+        "transactionFee": 0
+      },
+      {
+        "date": {
+          "date": "2020-04-01"
+        },
+        "transactionFee": 0
+      },
+      {
+        "date": {
+          "date": "2020-04-02"
+        },
+        "transactionFee": 0
+      },
+      {
+        "date": {
+          "date": "2020-04-03"
+        },
+        "transactionFee": 0
+      },
+      {
+        "date": {
+          "date": "2020-04-04"
+        },
+        "transactionFee": 0
+      },
+      {
+        "date": {
+          "date": "2020-04-05"
+        },
+        "transactionFee": 0
+      },
+      {
+        "date": {
+          "date": "2020-04-06"
+        },
+        "transactionFee": 0
+      },
+      {
+        "date": {
+          "date": "2020-04-07"
+        },
+        "transactionFee": 0
+      },
+      {
+        "date": {
+          "date": "2020-04-08"
+        },
+        "transactionFee": 0
+      },
+      {
+        "date": {
+          "date": "2020-04-09"
+        },
+        "transactionFee": 19.597145
+      },
+      {
+        "date": {
+          "date": "2020-04-10"
+        },
+        "transactionFee": 59.620855
+      },
+      {
+        "date": {
+          "date": "2020-04-11"
+        },
+        "transactionFee": 57.759505
+      },
+      {
+        "date": {
+          "date": "2020-04-12"
+        },
+        "transactionFee": 56.11485
+      },
+      {
+        "date": {
+          "date": "2020-04-13"
+        },
+        "transactionFee": 57.818375
+      },
+      {
+        "date": {
+          "date": "2020-04-14"
+        },
+        "transactionFee": 60.19343
+      },
+      {
+        "date": {
+          "date": "2020-04-15"
+        },
+        "transactionFee": 59.683355
+      },
+      {
+        "date": {
+          "date": "2020-04-16"
+        },
+        "transactionFee": 58.27057
+      },
+      {
+        "date": {
+          "date": "2020-04-17"
+        },
+        "transactionFee": 57.802565
+      },
+      {
+        "date": {
+          "date": "2020-04-18"
+        },
+        "transactionFee": 59.66827
+      },
+      {
+        "date": {
+          "date": "2020-04-19"
+        },
+        "transactionFee": 58.781935
+      },
+      {
+        "date": {
+          "date": "2020-04-20"
+        },
+        "transactionFee": 57.249135
+      },
+      {
+        "date": {
+          "date": "2020-04-21"
+        },
+        "transactionFee": 58.279755
+      },
+      {
+        "date": {
+          "date": "2020-04-22"
+        },
+        "transactionFee": 58.278175
+      },
+      {
+        "date": {
+          "date": "2020-04-23"
+        },
+        "transactionFee": 60.40759
+      },
+      {
+        "date": {
+          "date": "2020-04-24"
+        },
+        "transactionFee": 55.965355
+      },
+      {
+        "date": {
+          "date": "2020-04-25"
+        },
+        "transactionFee": 59.520805
+      },
+      {
+        "date": {
+          "date": "2020-04-26"
+        },
+        "transactionFee": 58.473615
+      },
+      {
+        "date": {
+          "date": "2020-04-27"
+        },
+        "transactionFee": 46.792165
+      },
+      {
+        "date": {
+          "date": "2020-04-28"
+        },
+        "transactionFee": 48.09561
+      },
+      {
+        "date": {
+          "date": "2020-04-29"
+        },
+        "transactionFee": 58.3499
+      },
+      {
+        "date": {
+          "date": "2020-04-30"
+        },
+        "transactionFee": 61.34096
+      },
+      {
+        "date": {
+          "date": "2020-05-01"
+        },
+        "transactionFee": 60.94947
+      },
+      {
+        "date": {
+          "date": "2020-05-02"
+        },
+        "transactionFee": 61.298545
+      },
+      {
+        "date": {
+          "date": "2020-05-03"
+        },
+        "transactionFee": 60.71526
+      },
+      {
+        "date": {
+          "date": "2020-05-04"
+        },
+        "transactionFee": 58.874605
+      },
+      {
+        "date": {
+          "date": "2020-05-05"
+        },
+        "transactionFee": 58.6782
+      },
+      {
+        "date": {
+          "date": "2020-05-06"
+        },
+        "transactionFee": 55.813085
+      },
+      {
+        "date": {
+          "date": "2020-05-07"
+        },
+        "transactionFee": 58.100155
+      },
+      {
+        "date": {
+          "date": "2020-05-08"
+        },
+        "transactionFee": 58.05242
+      },
+      {
+        "date": {
+          "date": "2020-05-09"
+        },
+        "transactionFee": 58.46595
+      },
+      {
+        "date": {
+          "date": "2020-05-10"
+        },
+        "transactionFee": 61.022195
+      },
+      {
+        "date": {
+          "date": "2020-05-11"
+        },
+        "transactionFee": 70.188375
+      },
+      {
+        "date": {
+          "date": "2020-05-12"
+        },
+        "transactionFee": 70.873805
+      },
+      {
+        "date": {
+          "date": "2020-05-13"
+        },
+        "transactionFee": 73.395995
+      },
+      {
+        "date": {
+          "date": "2020-05-14"
+        },
+        "transactionFee": 72.858865
+      },
+      {
+        "date": {
+          "date": "2020-05-15"
+        },
+        "transactionFee": 72.900715
+      },
+      {
+        "date": {
+          "date": "2020-05-16"
+        },
+        "transactionFee": 73.97269
+      },
+      {
+        "date": {
+          "date": "2020-05-17"
+        },
+        "transactionFee": 75.46202
+      },
+      {
+        "date": {
+          "date": "2020-05-18"
+        },
+        "transactionFee": 76.45721
+      },
+      {
+        "date": {
+          "date": "2020-05-19"
+        },
+        "transactionFee": 77.22246
+      },
+      {
+        "date": {
+          "date": "2020-05-20"
+        },
+        "transactionFee": 78.21364
+      },
+      {
+        "date": {
+          "date": "2020-05-21"
+        },
+        "transactionFee": 76.41676
+      },
+      {
+        "date": {
+          "date": "2020-05-22"
+        },
+        "transactionFee": 80.09929
+      },
+      {
+        "date": {
+          "date": "2020-05-23"
+        },
+        "transactionFee": 79.747615
+      },
+      {
+        "date": {
+          "date": "2020-05-24"
+        },
+        "transactionFee": 71.258305
+      },
+      {
+        "date": {
+          "date": "2020-05-25"
+        },
+        "transactionFee": 59.83218
+      },
+      {
+        "date": {
+          "date": "2020-05-26"
+        },
+        "transactionFee": 63.71957
+      },
+      {
+        "date": {
+          "date": "2020-05-27"
+        },
+        "transactionFee": 76.894375
+      },
+      {
+        "date": {
+          "date": "2020-05-28"
+        },
+        "transactionFee": 74.33769
+      },
+      {
+        "date": {
+          "date": "2020-05-29"
+        },
+        "transactionFee": 75.276865
+      },
+      {
+        "date": {
+          "date": "2020-05-30"
+        },
+        "transactionFee": 70.41579
+      },
+      {
+        "date": {
+          "date": "2020-05-31"
+        },
+        "transactionFee": 69.087945
+      },
+      {
+        "date": {
+          "date": "2020-06-01"
+        },
+        "transactionFee": 66.044725
+      },
+      {
+        "date": {
+          "date": "2020-06-02"
+        },
+        "transactionFee": 66.114365
+      },
+      {
+        "date": {
+          "date": "2020-06-03"
+        },
+        "transactionFee": 67.67052
+      },
+      {
+        "date": {
+          "date": "2020-06-04"
+        },
+        "transactionFee": 67.52481
+      },
+      {
+        "date": {
+          "date": "2020-06-05"
+        },
+        "transactionFee": 50.92312
+      },
+      {
+        "date": {
+          "date": "2020-06-06"
+        },
+        "transactionFee": 51.63026
+      },
+      {
+        "date": {
+          "date": "2020-06-07"
+        },
+        "transactionFee": 63.742805
+      },
+      {
+        "date": {
+          "date": "2020-06-08"
+        },
+        "transactionFee": 63.619915
+      },
+      {
+        "date": {
+          "date": "2020-06-09"
+        },
+        "transactionFee": 59.213905
+      },
+      {
+        "date": {
+          "date": "2020-06-10"
+        },
+        "transactionFee": 58.445235
+      },
+      {
+        "date": {
+          "date": "2020-06-11"
+        },
+        "transactionFee": 60.029685
+      },
+      {
+        "date": {
+          "date": "2020-06-12"
+        },
+        "transactionFee": 22.110285
+      },
+      {
+        "date": {
+          "date": "2020-06-13"
+        },
+        "transactionFee": 84.018395
+      },
+      {
+        "date": {
+          "date": "2020-06-14"
+        },
+        "transactionFee": 86.712075
+      },
+      {
+        "date": {
+          "date": "2020-06-15"
+        },
+        "transactionFee": 86.103285
+      },
+      {
+        "date": {
+          "date": "2020-06-16"
+        },
+        "transactionFee": 87.87672
+      },
+      {
+        "date": {
+          "date": "2020-06-17"
+        },
+        "transactionFee": 85.443965
+      },
+      {
+        "date": {
+          "date": "2020-06-18"
+        },
+        "transactionFee": 85.707815
+      },
+      {
+        "date": {
+          "date": "2020-06-19"
+        },
+        "transactionFee": 85.95409
+      },
+      {
+        "date": {
+          "date": "2020-06-20"
+        },
+        "transactionFee": 86.975935
+      },
+      {
+        "date": {
+          "date": "2020-06-21"
+        },
+        "transactionFee": 86.51399
+      },
+      {
+        "date": {
+          "date": "2020-06-22"
+        },
+        "transactionFee": 86.14967
+      },
+      {
+        "date": {
+          "date": "2020-06-23"
+        },
+        "transactionFee": 86.193145
+      },
+      {
+        "date": {
+          "date": "2020-06-24"
+        },
+        "transactionFee": 87.23148
+      },
+      {
+        "date": {
+          "date": "2020-06-25"
+        },
+        "transactionFee": 87.55742
+      },
+      {
+        "date": {
+          "date": "2020-06-26"
+        },
+        "transactionFee": 86.316075
+      },
+      {
+        "date": {
+          "date": "2020-06-27"
+        },
+        "transactionFee": 88.977375
+      },
+      {
+        "date": {
+          "date": "2020-06-28"
+        },
+        "transactionFee": 90.98267
+      },
+      {
+        "date": {
+          "date": "2020-06-29"
+        },
+        "transactionFee": 93.629785
+      },
+      {
+        "date": {
+          "date": "2020-06-30"
+        },
+        "transactionFee": 97.62684
+      },
+      {
+        "date": {
+          "date": "2020-07-01"
+        },
+        "transactionFee": 112.561745
+      },
+      {
+        "date": {
+          "date": "2020-07-02"
+        },
+        "transactionFee": 114.086045
+      },
+      {
+        "date": {
+          "date": "2020-07-03"
+        },
+        "transactionFee": 116.10567
+      },
+      {
+        "date": {
+          "date": "2020-07-04"
+        },
+        "transactionFee": 116.40504
+      },
+      {
+        "date": {
+          "date": "2020-07-05"
+        },
+        "transactionFee": 120.531955
+      },
+      {
+        "date": {
+          "date": "2020-07-06"
+        },
+        "transactionFee": 120.01267
+      },
+      {
+        "date": {
+          "date": "2020-07-07"
+        },
+        "transactionFee": 121.106495
+      },
+      {
+        "date": {
+          "date": "2020-07-08"
+        },
+        "transactionFee": 123.205385
+      },
+      {
+        "date": {
+          "date": "2020-07-09"
+        },
+        "transactionFee": 118.59557
+      },
+      {
+        "date": {
+          "date": "2020-07-10"
+        },
+        "transactionFee": 114.626955
+      },
+      {
+        "date": {
+          "date": "2020-07-11"
+        },
+        "transactionFee": 118.48182
+      },
+      {
+        "date": {
+          "date": "2020-07-12"
+        },
+        "transactionFee": 114.350465
+      },
+      {
+        "date": {
+          "date": "2020-07-13"
+        },
+        "transactionFee": 116.58044
+      },
+      {
+        "date": {
+          "date": "2020-07-14"
+        },
+        "transactionFee": 117.88449
+      },
+      {
+        "date": {
+          "date": "2020-07-15"
+        },
+        "transactionFee": 116.738265
+      },
+      {
+        "date": {
+          "date": "2020-07-16"
+        },
+        "transactionFee": 117.18387
+      },
+      {
+        "date": {
+          "date": "2020-07-17"
+        },
+        "transactionFee": 114.372945
+      },
+      {
+        "date": {
+          "date": "2020-07-18"
+        },
+        "transactionFee": 115.00495
+      },
+      {
+        "date": {
+          "date": "2020-07-19"
+        },
+        "transactionFee": 116.160965
+      },
+      {
+        "date": {
+          "date": "2020-07-20"
+        },
+        "transactionFee": 122.638295
+      },
+      {
+        "date": {
+          "date": "2020-07-21"
+        },
+        "transactionFee": 124.579445
+      },
+      {
+        "date": {
+          "date": "2020-07-22"
+        },
+        "transactionFee": 122.72385
+      },
+      {
+        "date": {
+          "date": "2020-07-23"
+        },
+        "transactionFee": 119.04234
+      },
+      {
+        "date": {
+          "date": "2020-07-24"
+        },
+        "transactionFee": 135.26872
+      },
+      {
+        "date": {
+          "date": "2020-07-25"
+        },
+        "transactionFee": 125.33898
+      },
+      {
+        "date": {
+          "date": "2020-07-26"
+        },
+        "transactionFee": 123.17081
+      },
+      {
+        "date": {
+          "date": "2020-07-27"
+        },
+        "transactionFee": 121.738865
+      },
+      {
+        "date": {
+          "date": "2020-07-28"
+        },
+        "transactionFee": 121.607515
+      },
+      {
+        "date": {
+          "date": "2020-07-29"
+        },
+        "transactionFee": 124.74047
+      },
+      {
+        "date": {
+          "date": "2020-07-30"
+        },
+        "transactionFee": 124.524875
+      },
+      {
+        "date": {
+          "date": "2020-07-31"
+        },
+        "transactionFee": 121.155485
+      },
+      {
+        "date": {
+          "date": "2020-08-01"
+        },
+        "transactionFee": 122.835005
+      },
+      {
+        "date": {
+          "date": "2020-08-02"
+        },
+        "transactionFee": 122.24454
+      },
+      {
+        "date": {
+          "date": "2020-08-03"
+        },
+        "transactionFee": 124.712935
+      },
+      {
+        "date": {
+          "date": "2020-08-04"
+        },
+        "transactionFee": 125.58343
+      },
+      {
+        "date": {
+          "date": "2020-08-05"
+        },
+        "transactionFee": 124.93395
+      },
+      {
+        "date": {
+          "date": "2020-08-06"
+        },
+        "transactionFee": 126.568355
+      },
+      {
+        "date": {
+          "date": "2020-08-07"
+        },
+        "transactionFee": 104.44212
+      },
+      {
+        "date": {
+          "date": "2020-08-08"
+        },
+        "transactionFee": 90.6144
+      },
+      {
+        "date": {
+          "date": "2020-08-09"
+        },
+        "transactionFee": 116.214145
+      },
+      {
+        "date": {
+          "date": "2020-08-10"
+        },
+        "transactionFee": 118.222745
+      },
+      {
+        "date": {
+          "date": "2020-08-11"
+        },
+        "transactionFee": 125.191795
+      },
+      {
+        "date": {
+          "date": "2020-08-12"
+        },
+        "transactionFee": 125.86125
+      },
+      {
+        "date": {
+          "date": "2020-08-13"
+        },
+        "transactionFee": 121.114795
+      },
+      {
+        "date": {
+          "date": "2020-08-14"
+        },
+        "transactionFee": 120.10341
+      },
+      {
+        "date": {
+          "date": "2020-08-15"
+        },
+        "transactionFee": 111.609395
+      },
+      {
+        "date": {
+          "date": "2020-08-16"
+        },
+        "transactionFee": 111.498655
+      },
+      {
+        "date": {
+          "date": "2020-08-17"
+        },
+        "transactionFee": 116.99787
+      },
+      {
+        "date": {
+          "date": "2020-08-18"
+        },
+        "transactionFee": 121.82729
+      },
+      {
+        "date": {
+          "date": "2020-08-19"
+        },
+        "transactionFee": 124.12854
+      },
+      {
+        "date": {
+          "date": "2020-08-20"
+        },
+        "transactionFee": 127.265615
+      },
+      {
+        "date": {
+          "date": "2020-08-21"
+        },
+        "transactionFee": 128.03993
+      },
+      {
+        "date": {
+          "date": "2020-08-22"
+        },
+        "transactionFee": 125.84858
+      },
+      {
+        "date": {
+          "date": "2020-08-23"
+        },
+        "transactionFee": 124.820455
+      },
+      {
+        "date": {
+          "date": "2020-08-24"
+        },
+        "transactionFee": 126.570575
+      },
+      {
+        "date": {
+          "date": "2020-08-25"
+        },
+        "transactionFee": 127.125445
+      },
+      {
+        "date": {
+          "date": "2020-08-26"
+        },
+        "transactionFee": 122.48454
+      },
+      {
+        "date": {
+          "date": "2020-08-27"
+        },
+        "transactionFee": 114.65938
+      },
+      {
+        "date": {
+          "date": "2020-08-28"
+        },
+        "transactionFee": 113.691165
+      },
+      {
+        "date": {
+          "date": "2020-08-29"
+        },
+        "transactionFee": 121.036495
+      },
+      {
+        "date": {
+          "date": "2020-08-30"
+        },
+        "transactionFee": 124.687925
+      },
+      {
+        "date": {
+          "date": "2020-08-31"
+        },
+        "transactionFee": 129.38644
+      },
+      {
+        "date": {
+          "date": "2020-09-01"
+        },
+        "transactionFee": 134.175305
+      },
+      {
+        "date": {
+          "date": "2020-09-02"
+        },
+        "transactionFee": 120.615465
+      },
+      {
+        "date": {
+          "date": "2020-09-03"
+        },
+        "transactionFee": 124.372505
+      },
+      {
+        "date": {
+          "date": "2020-09-04"
+        },
+        "transactionFee": 134.87411
+      },
+      {
+        "date": {
+          "date": "2020-09-05"
+        },
+        "transactionFee": 139.945025
+      },
+      {
+        "date": {
+          "date": "2020-09-06"
+        },
+        "transactionFee": 155.322915
+      },
+      {
+        "date": {
+          "date": "2020-09-07"
+        },
+        "transactionFee": 170.245615
+      },
+      {
+        "date": {
+          "date": "2020-09-08"
+        },
+        "transactionFee": 175.84758
+      },
+      {
+        "date": {
+          "date": "2020-09-09"
+        },
+        "transactionFee": 175.439935
+      },
+      {
+        "date": {
+          "date": "2020-09-10"
+        },
+        "transactionFee": 174.44113
+      },
+      {
+        "date": {
+          "date": "2020-09-11"
+        },
+        "transactionFee": 177.13439
+      },
+      {
+        "date": {
+          "date": "2020-09-12"
+        },
+        "transactionFee": 184.32239
+      },
+      {
+        "date": {
+          "date": "2020-09-13"
+        },
+        "transactionFee": 183.035605
+      },
+      {
+        "date": {
+          "date": "2020-09-14"
+        },
+        "transactionFee": 181.617145
+      },
+      {
+        "date": {
+          "date": "2020-09-15"
+        },
+        "transactionFee": 182.255825
+      },
+      {
+        "date": {
+          "date": "2020-09-16"
+        },
+        "transactionFee": 184.60659
+      },
+      {
+        "date": {
+          "date": "2020-09-17"
+        },
+        "transactionFee": 187.456505
+      },
+      {
+        "date": {
+          "date": "2020-09-18"
+        },
+        "transactionFee": 185.84557
+      },
+      {
+        "date": {
+          "date": "2020-09-19"
+        },
+        "transactionFee": 188.149875
+      },
+      {
+        "date": {
+          "date": "2020-09-20"
+        },
+        "transactionFee": 186.175635
+      },
+      {
+        "date": {
+          "date": "2020-09-21"
+        },
+        "transactionFee": 183.189145
+      },
+      {
+        "date": {
+          "date": "2020-09-22"
+        },
+        "transactionFee": 187.70285
+      },
+      {
+        "date": {
+          "date": "2020-09-23"
+        },
+        "transactionFee": 187.10836
+      },
+      {
+        "date": {
+          "date": "2020-09-24"
+        },
+        "transactionFee": 185.530555
+      },
+      {
+        "date": {
+          "date": "2020-09-25"
+        },
+        "transactionFee": 184.47386
+      },
+      {
+        "date": {
+          "date": "2020-09-26"
+        },
+        "transactionFee": 183.57584
+      },
+      {
+        "date": {
+          "date": "2020-09-27"
+        },
+        "transactionFee": 186.91899
+      },
+      {
+        "date": {
+          "date": "2020-09-28"
+        },
+        "transactionFee": 194.88156
+      },
+      {
+        "date": {
+          "date": "2020-09-29"
+        },
+        "transactionFee": 189.82301
+      },
+      {
+        "date": {
+          "date": "2020-09-30"
+        },
+        "transactionFee": 190.525725
+      },
+      {
+        "date": {
+          "date": "2020-10-01"
+        },
+        "transactionFee": 194.03408
+      },
+      {
+        "date": {
+          "date": "2020-10-02"
+        },
+        "transactionFee": 184.564695
+      },
+      {
+        "date": {
+          "date": "2020-10-03"
+        },
+        "transactionFee": 184.568175
+      },
+      {
+        "date": {
+          "date": "2020-10-04"
+        },
+        "transactionFee": 187.70052
+      },
+      {
+        "date": {
+          "date": "2020-10-05"
+        },
+        "transactionFee": 188.985645
+      },
+      {
+        "date": {
+          "date": "2020-10-06"
+        },
+        "transactionFee": 190.59057
+      },
+      {
+        "date": {
+          "date": "2020-10-07"
+        },
+        "transactionFee": 203.62438
+      },
+      {
+        "date": {
+          "date": "2020-10-08"
+        },
+        "transactionFee": 238.537225
+      },
+      {
+        "date": {
+          "date": "2020-10-09"
+        },
+        "transactionFee": 232.601315
+      },
+      {
+        "date": {
+          "date": "2020-10-10"
+        },
+        "transactionFee": 229.18878
+      },
+      {
+        "date": {
+          "date": "2020-10-11"
+        },
+        "transactionFee": 236.051035
+      },
+      {
+        "date": {
+          "date": "2020-10-12"
+        },
+        "transactionFee": 235.86294
+      },
+      {
+        "date": {
+          "date": "2020-10-13"
+        },
+        "transactionFee": 217.461245
+      },
+      {
+        "date": {
+          "date": "2020-10-14"
+        },
+        "transactionFee": 210.01198
+      },
+      {
+        "date": {
+          "date": "2020-10-15"
+        },
+        "transactionFee": 209.77582
+      },
+      {
+        "date": {
+          "date": "2020-10-16"
+        },
+        "transactionFee": 228.610245
+      },
+      {
+        "date": {
+          "date": "2020-10-17"
+        },
+        "transactionFee": 228.21906
+      },
+      {
+        "date": {
+          "date": "2020-10-18"
+        },
+        "transactionFee": 228.2976
+      },
+      {
+        "date": {
+          "date": "2020-10-19"
+        },
+        "transactionFee": 229.27088
+      },
+      {
+        "date": {
+          "date": "2020-10-20"
+        },
+        "transactionFee": 232.563275
+      },
+      {
+        "date": {
+          "date": "2020-10-21"
+        },
+        "transactionFee": 236.224085
+      },
+      {
+        "date": {
+          "date": "2020-10-22"
+        },
+        "transactionFee": 237.24162
+      },
+      {
+        "date": {
+          "date": "2020-10-23"
+        },
+        "transactionFee": 236.81654
+      },
+      {
+        "date": {
+          "date": "2020-10-24"
+        },
+        "transactionFee": 239.767155
+      },
+      {
+        "date": {
+          "date": "2020-10-25"
+        },
+        "transactionFee": 238.78492
+      },
+      {
+        "date": {
+          "date": "2020-10-26"
+        },
+        "transactionFee": 243.40827
+      },
+      {
+        "date": {
+          "date": "2020-10-27"
+        },
+        "transactionFee": 242.687465
+      },
+      {
+        "date": {
+          "date": "2020-10-28"
+        },
+        "transactionFee": 243.248275
+      },
+      {
+        "date": {
+          "date": "2020-10-29"
+        },
+        "transactionFee": 241.556685
+      },
+      {
+        "date": {
+          "date": "2020-10-30"
+        },
+        "transactionFee": 243.58723
+      },
+      {
+        "date": {
+          "date": "2020-10-31"
+        },
+        "transactionFee": 240.602645
+      },
+      {
+        "date": {
+          "date": "2020-11-01"
+        },
+        "transactionFee": 241.02526
+      },
+      {
+        "date": {
+          "date": "2020-11-02"
+        },
+        "transactionFee": 244.81857
+      },
+      {
+        "date": {
+          "date": "2020-11-03"
+        },
+        "transactionFee": 243.62739
+      },
+      {
+        "date": {
+          "date": "2020-11-04"
+        },
+        "transactionFee": 277.39417
+      },
+      {
+        "date": {
+          "date": "2020-11-05"
+        },
+        "transactionFee": 327.630305
+      },
+      {
+        "date": {
+          "date": "2020-11-06"
+        },
+        "transactionFee": 358.59244
+      },
+      {
+        "date": {
+          "date": "2020-11-07"
+        },
+        "transactionFee": 369.570595
+      },
+      {
+        "date": {
+          "date": "2020-11-08"
+        },
+        "transactionFee": 379.02493
+      },
+      {
+        "date": {
+          "date": "2020-11-09"
+        },
+        "transactionFee": 393.45229
+      },
+      {
+        "date": {
+          "date": "2020-11-10"
+        },
+        "transactionFee": 407.85904
+      },
+      {
+        "date": {
+          "date": "2020-11-11"
+        },
+        "transactionFee": 409.29714
+      },
+      {
+        "date": {
+          "date": "2020-11-12"
+        },
+        "transactionFee": 418.043195
+      },
+      {
+        "date": {
+          "date": "2020-11-13"
+        },
+        "transactionFee": 429.82017
+      },
+      {
+        "date": {
+          "date": "2020-11-14"
+        },
+        "transactionFee": 413.25053
+      },
+      {
+        "date": {
+          "date": "2020-11-15"
+        },
+        "transactionFee": 411.57422
+      },
+      {
+        "date": {
+          "date": "2020-11-16"
+        },
+        "transactionFee": 402.69674
+      },
+      {
+        "date": {
+          "date": "2020-11-17"
+        },
+        "transactionFee": 406.370055
+      },
+      {
+        "date": {
+          "date": "2020-11-18"
+        },
+        "transactionFee": 403.139875
+      },
+      {
+        "date": {
+          "date": "2020-11-19"
+        },
+        "transactionFee": 402.97756
+      },
+      {
+        "date": {
+          "date": "2020-11-20"
+        },
+        "transactionFee": 376.029225
+      },
+      {
+        "date": {
+          "date": "2020-11-21"
+        },
+        "transactionFee": 370.68131
+      },
+      {
+        "date": {
+          "date": "2020-11-22"
+        },
+        "transactionFee": 350.581055
+      },
+      {
+        "date": {
+          "date": "2020-11-23"
+        },
+        "transactionFee": 360.56794
+      },
+      {
+        "date": {
+          "date": "2020-11-24"
+        },
+        "transactionFee": 366.31949
+      },
+      {
+        "date": {
+          "date": "2020-11-25"
+        },
+        "transactionFee": 364.39154
+      },
+      {
+        "date": {
+          "date": "2020-11-26"
+        },
+        "transactionFee": 340.42241
+      },
+      {
+        "date": {
+          "date": "2020-11-27"
+        },
+        "transactionFee": 349.070545
+      },
+      {
+        "date": {
+          "date": "2020-11-28"
+        },
+        "transactionFee": 336.28508
+      },
+      {
+        "date": {
+          "date": "2020-11-29"
+        },
+        "transactionFee": 337.15242
+      },
+      {
+        "date": {
+          "date": "2020-11-30"
+        },
+        "transactionFee": 344.34241
+      },
+      {
+        "date": {
+          "date": "2020-12-01"
+        },
+        "transactionFee": 289.30307
+      },
+      {
+        "date": {
+          "date": "2020-12-02"
+        },
+        "transactionFee": 320.862735
+      },
+      {
+        "date": {
+          "date": "2020-12-03"
+        },
+        "transactionFee": 373.59482
+      },
+      {
+        "date": {
+          "date": "2020-12-04"
+        },
+        "transactionFee": 268.58899
+      },
+      {
+        "date": {
+          "date": "2020-12-05"
+        },
+        "transactionFee": 387.210795
+      },
+      {
+        "date": {
+          "date": "2020-12-06"
+        },
+        "transactionFee": 408.66594
+      },
+      {
+        "date": {
+          "date": "2020-12-07"
+        },
+        "transactionFee": 408.47741
+      },
+      {
+        "date": {
+          "date": "2020-12-08"
+        },
+        "transactionFee": 322.948615
+      },
+      {
+        "date": {
+          "date": "2020-12-09"
+        },
+        "transactionFee": 301.00353
+      },
+      {
+        "date": {
+          "date": "2020-12-10"
+        },
+        "transactionFee": 311.527185
+      },
+      {
+        "date": {
+          "date": "2020-12-11"
+        },
+        "transactionFee": 308.834325
+      },
+      {
+        "date": {
+          "date": "2020-12-12"
+        },
+        "transactionFee": 324.352105
+      },
+      {
+        "date": {
+          "date": "2020-12-13"
+        },
+        "transactionFee": 322.11469
+      },
+      {
+        "date": {
+          "date": "2020-12-14"
+        },
+        "transactionFee": 312.76043
+      },
+      {
+        "date": {
+          "date": "2020-12-15"
+        },
+        "transactionFee": 303.643575
+      },
+      {
+        "date": {
+          "date": "2020-12-16"
+        },
+        "transactionFee": 305.082685
+      },
+      {
+        "date": {
+          "date": "2020-12-17"
+        },
+        "transactionFee": 297.35588
+      },
+      {
+        "date": {
+          "date": "2020-12-18"
+        },
+        "transactionFee": 301.42319
+      },
+      {
+        "date": {
+          "date": "2020-12-19"
+        },
+        "transactionFee": 318.81612
+      },
+      {
+        "date": {
+          "date": "2020-12-20"
+        },
+        "transactionFee": 296.404345
+      },
+      {
+        "date": {
+          "date": "2020-12-21"
+        },
+        "transactionFee": 292.34787
+      },
+      {
+        "date": {
+          "date": "2020-12-22"
+        },
+        "transactionFee": 268.020885
+      },
+      {
+        "date": {
+          "date": "2020-12-23"
+        },
+        "transactionFee": 268.585085
+      },
+      {
+        "date": {
+          "date": "2020-12-24"
+        },
+        "transactionFee": 297.57113
+      },
+      {
+        "date": {
+          "date": "2020-12-25"
+        },
+        "transactionFee": 296.60795
+      },
+      {
+        "date": {
+          "date": "2020-12-26"
+        },
+        "transactionFee": 296.46206
+      },
+      {
+        "date": {
+          "date": "2020-12-27"
+        },
+        "transactionFee": 288.838385
+      },
+      {
+        "date": {
+          "date": "2020-12-28"
+        },
+        "transactionFee": 299.979705
+      },
+      {
+        "date": {
+          "date": "2020-12-29"
+        },
+        "transactionFee": 315.09645
+      },
+      {
+        "date": {
+          "date": "2020-12-30"
+        },
+        "transactionFee": 316.332715
+      },
+      {
+        "date": {
+          "date": "2020-12-31"
+        },
+        "transactionFee": 323.71232
+      },
+      {
+        "date": {
+          "date": "2021-01-01"
+        },
+        "transactionFee": 300.306535
+      },
+      {
+        "date": {
+          "date": "2021-01-02"
+        },
+        "transactionFee": 317.86945
+      },
+      {
+        "date": {
+          "date": "2021-01-03"
+        },
+        "transactionFee": 330.481035
+      },
+      {
+        "date": {
+          "date": "2021-01-04"
+        },
+        "transactionFee": 393.020005
+      },
+      {
+        "date": {
+          "date": "2021-01-05"
+        },
+        "transactionFee": 427.121265
+      },
+      {
+        "date": {
+          "date": "2021-01-06"
+        },
+        "transactionFee": 437.28725
+      },
+      {
+        "date": {
+          "date": "2021-01-07"
+        },
+        "transactionFee": 435.97266
+      },
+      {
+        "date": {
+          "date": "2021-01-08"
+        },
+        "transactionFee": 407.76869
+      },
+      {
+        "date": {
+          "date": "2021-01-09"
+        },
+        "transactionFee": 407.250255
+      },
+      {
+        "date": {
+          "date": "2021-01-10"
+        },
+        "transactionFee": 412.82975
+      },
+      {
+        "date": {
+          "date": "2021-01-11"
+        },
+        "transactionFee": 417.56513
+      },
+      {
+        "date": {
+          "date": "2021-01-12"
+        },
+        "transactionFee": 430.30236
+      },
+      {
+        "date": {
+          "date": "2021-01-13"
+        },
+        "transactionFee": 406.79923
+      },
+      {
+        "date": {
+          "date": "2021-01-14"
+        },
+        "transactionFee": 439.3214
+      },
+      {
+        "date": {
+          "date": "2021-01-15"
+        },
+        "transactionFee": 67.54822
+      },
+      {
+        "date": {
+          "date": "2021-01-16"
+        },
+        "transactionFee": 166.537125
+      },
+      {
+        "date": {
+          "date": "2021-01-17"
+        },
+        "transactionFee": 387.653705
+      },
+      {
+        "date": {
+          "date": "2021-01-18"
+        },
+        "transactionFee": 401.2379
+      },
+      {
+        "date": {
+          "date": "2021-01-19"
+        },
+        "transactionFee": 398.61054
+      },
+      {
+        "date": {
+          "date": "2021-01-20"
+        },
+        "transactionFee": 384.568145
+      },
+      {
+        "date": {
+          "date": "2021-01-21"
+        },
+        "transactionFee": 407.01063
+      },
+      {
+        "date": {
+          "date": "2021-01-22"
+        },
+        "transactionFee": 412.79774
+      },
+      {
+        "date": {
+          "date": "2021-01-23"
+        },
+        "transactionFee": 418.654325
+      },
+      {
+        "date": {
+          "date": "2021-01-24"
+        },
+        "transactionFee": 425.96146
+      },
+      {
+        "date": {
+          "date": "2021-01-25"
+        },
+        "transactionFee": 445.4336
+      },
+      {
+        "date": {
+          "date": "2021-01-26"
+        },
+        "transactionFee": 435.74982
+      },
+      {
+        "date": {
+          "date": "2021-01-27"
+        },
+        "transactionFee": 424.23918
+      },
+      {
+        "date": {
+          "date": "2021-01-28"
+        },
+        "transactionFee": 440.169185
+      },
+      {
+        "date": {
+          "date": "2021-01-29"
+        },
+        "transactionFee": 431.08516
+      },
+      {
+        "date": {
+          "date": "2021-01-30"
+        },
+        "transactionFee": 437.5174
+      },
+      {
+        "date": {
+          "date": "2021-01-31"
+        },
+        "transactionFee": 450.564375
+      },
+      {
+        "date": {
+          "date": "2021-02-01"
+        },
+        "transactionFee": 451.11549
+      },
+      {
+        "date": {
+          "date": "2021-02-02"
+        },
+        "transactionFee": 432.47609
+      },
+      {
+        "date": {
+          "date": "2021-02-03"
+        },
+        "transactionFee": 451.11454
+      },
+      {
+        "date": {
+          "date": "2021-02-04"
+        },
+        "transactionFee": 456.731505
+      },
+      {
+        "date": {
+          "date": "2021-02-05"
+        },
+        "transactionFee": 459.612385
+      },
+      {
+        "date": {
+          "date": "2021-02-06"
+        },
+        "transactionFee": 462.56596
+      },
+      {
+        "date": {
+          "date": "2021-02-07"
+        },
+        "transactionFee": 484.189165
+      },
+      {
+        "date": {
+          "date": "2021-02-08"
+        },
+        "transactionFee": 477.01365
+      },
+      {
+        "date": {
+          "date": "2021-02-09"
+        },
+        "transactionFee": 472.033065
+      },
+      {
+        "date": {
+          "date": "2021-02-10"
+        },
+        "transactionFee": 467.824305
+      },
+      {
+        "date": {
+          "date": "2021-02-11"
+        },
+        "transactionFee": 464.392535
+      },
+      {
+        "date": {
+          "date": "2021-02-12"
+        },
+        "transactionFee": 462.09937
+      },
+      {
+        "date": {
+          "date": "2021-02-13"
+        },
+        "transactionFee": 445.0989
+      },
+      {
+        "date": {
+          "date": "2021-02-14"
+        },
+        "transactionFee": 437.82535
+      },
+      {
+        "date": {
+          "date": "2021-02-15"
+        },
+        "transactionFee": 428.358545
+      },
+      {
+        "date": {
+          "date": "2021-02-16"
+        },
+        "transactionFee": 440.918915
+      },
+      {
+        "date": {
+          "date": "2021-02-17"
+        },
+        "transactionFee": 502.268635
+      },
+      {
+        "date": {
+          "date": "2021-02-18"
+        },
+        "transactionFee": 518.87406
+      },
+      {
+        "date": {
+          "date": "2021-02-19"
+        },
+        "transactionFee": 555.89625
+      },
+      {
+        "date": {
+          "date": "2021-02-20"
+        },
+        "transactionFee": 585.806565
+      },
+      {
+        "date": {
+          "date": "2021-02-21"
+        },
+        "transactionFee": 564.77582
+      },
+      {
+        "date": {
+          "date": "2021-02-22"
+        },
+        "transactionFee": 372.44244
+      },
+      {
+        "date": {
+          "date": "2021-02-23"
+        },
+        "transactionFee": 257.10623
+      },
+      {
+        "date": {
+          "date": "2021-02-24"
+        },
+        "transactionFee": 414.452125
+      },
+      {
+        "date": {
+          "date": "2021-02-25"
+        },
+        "transactionFee": 456.823125
+      },
+      {
+        "date": {
+          "date": "2021-02-26"
+        },
+        "transactionFee": 400.275155
+      },
+      {
+        "date": {
+          "date": "2021-02-27"
+        },
+        "transactionFee": 434.864
+      },
+      {
+        "date": {
+          "date": "2021-02-28"
+        },
+        "transactionFee": 420.144045
+      },
+      {
+        "date": {
+          "date": "2021-03-01"
+        },
+        "transactionFee": 405.16401
+      },
+      {
+        "date": {
+          "date": "2021-03-02"
+        },
+        "transactionFee": 368.62366
+      },
+      {
+        "date": {
+          "date": "2021-03-03"
+        },
+        "transactionFee": 326.358085
+      },
+      {
+        "date": {
+          "date": "2021-03-04"
+        },
+        "transactionFee": 372.406125
+      },
+      {
+        "date": {
+          "date": "2021-03-05"
+        },
+        "transactionFee": 395.974845
+      },
+      {
+        "date": {
+          "date": "2021-03-06"
+        },
+        "transactionFee": 419.650565
+      },
+      {
+        "date": {
+          "date": "2021-03-07"
+        },
+        "transactionFee": 414.40544
+      },
+      {
+        "date": {
+          "date": "2021-03-08"
+        },
+        "transactionFee": 405.87791
+      },
+      {
+        "date": {
+          "date": "2021-03-09"
+        },
+        "transactionFee": 407.60702
+      },
+      {
+        "date": {
+          "date": "2021-03-10"
+        },
+        "transactionFee": 386.933985
+      },
+      {
+        "date": {
+          "date": "2021-03-11"
+        },
+        "transactionFee": 411.914725
+      },
+      {
+        "date": {
+          "date": "2021-03-12"
+        },
+        "transactionFee": 400.551065
+      },
+      {
+        "date": {
+          "date": "2021-03-13"
+        },
+        "transactionFee": 385.760435
+      },
+      {
+        "date": {
+          "date": "2021-03-14"
+        },
+        "transactionFee": 392.71251
+      },
+      {
+        "date": {
+          "date": "2021-03-15"
+        },
+        "transactionFee": 397.693
+      },
+      {
+        "date": {
+          "date": "2021-03-16"
+        },
+        "transactionFee": 386.66323
+      },
+      {
+        "date": {
+          "date": "2021-03-17"
+        },
+        "transactionFee": 378.39675
+      },
+      {
+        "date": {
+          "date": "2021-03-18"
+        },
+        "transactionFee": 389.296165
+      },
+      {
+        "date": {
+          "date": "2021-03-19"
+        },
+        "transactionFee": 396.117585
+      },
+      {
+        "date": {
+          "date": "2021-03-20"
+        },
+        "transactionFee": 386.45554
+      },
+      {
+        "date": {
+          "date": "2021-03-21"
+        },
+        "transactionFee": 369.66623
+      },
+      {
+        "date": {
+          "date": "2021-03-22"
+        },
+        "transactionFee": 382.892895
+      },
+      {
+        "date": {
+          "date": "2021-03-23"
+        },
+        "transactionFee": 383.61258
+      },
+      {
+        "date": {
+          "date": "2021-03-24"
+        },
+        "transactionFee": 375.701735
+      },
+      {
+        "date": {
+          "date": "2021-03-25"
+        },
+        "transactionFee": 389.72835
+      },
+      {
+        "date": {
+          "date": "2021-03-26"
+        },
+        "transactionFee": 382.20797
+      },
+      {
+        "date": {
+          "date": "2021-03-27"
+        },
+        "transactionFee": 374.732075
+      },
+      {
+        "date": {
+          "date": "2021-03-28"
+        },
+        "transactionFee": 367.615245
+      },
+      {
+        "date": {
+          "date": "2021-03-29"
+        },
+        "transactionFee": 365.275595
+      },
+      {
+        "date": {
+          "date": "2021-03-30"
+        },
+        "transactionFee": 364.756645
+      },
+      {
+        "date": {
+          "date": "2021-03-31"
+        },
+        "transactionFee": 353.11653
+      },
+      {
+        "date": {
+          "date": "2021-04-01"
+        },
+        "transactionFee": 335.79056
+      },
+      {
+        "date": {
+          "date": "2021-04-02"
+        },
+        "transactionFee": 332.91527
+      },
+      {
+        "date": {
+          "date": "2021-04-03"
+        },
+        "transactionFee": 349.47809
+      },
+      {
+        "date": {
+          "date": "2021-04-04"
+        },
+        "transactionFee": 366.7226
+      },
+      {
+        "date": {
+          "date": "2021-04-05"
+        },
+        "transactionFee": 318.58913
+      },
+      {
+        "date": {
+          "date": "2021-04-06"
+        },
+        "transactionFee": 381.480315
+      },
+      {
+        "date": {
+          "date": "2021-04-07"
+        },
+        "transactionFee": 377.81979
+      },
+      {
+        "date": {
+          "date": "2021-04-08"
+        },
+        "transactionFee": 370.234615
+      },
+      {
+        "date": {
+          "date": "2021-04-09"
+        },
+        "transactionFee": 375.635265
+      },
+      {
+        "date": {
+          "date": "2021-04-10"
+        },
+        "transactionFee": 381.14215
+      },
+      {
+        "date": {
+          "date": "2021-04-11"
+        },
+        "transactionFee": 370.625615
+      },
+      {
+        "date": {
+          "date": "2021-04-12"
+        },
+        "transactionFee": 374.46925
+      },
+      {
+        "date": {
+          "date": "2021-04-13"
+        },
+        "transactionFee": 372.99733
+      },
+      {
+        "date": {
+          "date": "2021-04-14"
+        },
+        "transactionFee": 367.444975
+      },
+      {
+        "date": {
+          "date": "2021-04-15"
+        },
+        "transactionFee": 366.95105
+      },
+      {
+        "date": {
+          "date": "2021-04-16"
+        },
+        "transactionFee": 361.74918
+      },
+      {
+        "date": {
+          "date": "2021-04-17"
+        },
+        "transactionFee": 366.82508
+      },
+      {
+        "date": {
+          "date": "2021-04-18"
+        },
+        "transactionFee": 367.56759
+      },
+      {
+        "date": {
+          "date": "2021-04-19"
+        },
+        "transactionFee": 360.949435
+      },
+      {
+        "date": {
+          "date": "2021-04-20"
+        },
+        "transactionFee": 364.39456
+      },
+      {
+        "date": {
+          "date": "2021-04-21"
+        },
+        "transactionFee": 398.371305
+      },
+      {
+        "date": {
+          "date": "2021-04-22"
+        },
+        "transactionFee": 524.72178
+      },
+      {
+        "date": {
+          "date": "2021-04-23"
+        },
+        "transactionFee": 537.779735
+      },
+      {
+        "date": {
+          "date": "2021-04-24"
+        },
+        "transactionFee": 516.749765
+      },
+      {
+        "date": {
+          "date": "2021-04-25"
+        },
+        "transactionFee": 512.582625
+      },
+      {
+        "date": {
+          "date": "2021-04-26"
+        },
+        "transactionFee": 505.740185
+      },
+      {
+        "date": {
+          "date": "2021-04-27"
+        },
+        "transactionFee": 499.336035
+      },
+      {
+        "date": {
+          "date": "2021-04-28"
+        },
+        "transactionFee": 503.10963
+      },
+      {
+        "date": {
+          "date": "2021-04-29"
+        },
+        "transactionFee": 484.30319
+      },
+      {
+        "date": {
+          "date": "2021-04-30"
+        },
+        "transactionFee": 484.59564
+      },
+      {
+        "date": {
+          "date": "2021-05-01"
+        },
+        "transactionFee": 475.863515
+      },
+      {
+        "date": {
+          "date": "2021-05-02"
+        },
+        "transactionFee": 460.607305
+      },
+      {
+        "date": {
+          "date": "2021-05-03"
+        },
+        "transactionFee": 428.38539
+      },
+      {
+        "date": {
+          "date": "2021-05-04"
+        },
+        "transactionFee": 421.830165
+      },
+      {
+        "date": {
+          "date": "2021-05-05"
+        },
+        "transactionFee": 396.20747
+      },
+      {
+        "date": {
+          "date": "2021-05-06"
+        },
+        "transactionFee": 379.10395
+      },
+      {
+        "date": {
+          "date": "2021-05-07"
+        },
+        "transactionFee": 379.779035
+      },
+      {
+        "date": {
+          "date": "2021-05-08"
+        },
+        "transactionFee": 388.738185
+      },
+      {
+        "date": {
+          "date": "2021-05-09"
+        },
+        "transactionFee": 397.68596
+      },
+      {
+        "date": {
+          "date": "2021-05-10"
+        },
+        "transactionFee": 414.31879
+      },
+      {
+        "date": {
+          "date": "2021-05-11"
+        },
+        "transactionFee": 423.706435
+      },
+      {
+        "date": {
+          "date": "2021-05-12"
+        },
+        "transactionFee": 426.091915
+      },
+      {
+        "date": {
+          "date": "2021-05-13"
+        },
+        "transactionFee": 425.72851
+      },
+      {
+        "date": {
+          "date": "2021-05-14"
+        },
+        "transactionFee": 434.298495
+      },
+      {
+        "date": {
+          "date": "2021-05-15"
+        },
+        "transactionFee": 428.01097
+      },
+      {
+        "date": {
+          "date": "2021-05-16"
+        },
+        "transactionFee": 432.30155
+      },
+      {
+        "date": {
+          "date": "2021-05-17"
+        },
+        "transactionFee": 416.376945
+      },
+      {
+        "date": {
+          "date": "2021-05-18"
+        },
+        "transactionFee": 405.974005
+      },
+      {
+        "date": {
+          "date": "2021-05-19"
+        },
+        "transactionFee": 409.984055
+      },
+      {
+        "date": {
+          "date": "2021-05-20"
+        },
+        "transactionFee": 404.684335
+      },
+      {
+        "date": {
+          "date": "2021-05-21"
+        },
+        "transactionFee": 403.480005
+      },
+      {
+        "date": {
+          "date": "2021-05-22"
+        },
+        "transactionFee": 379.45545
+      },
+      {
+        "date": {
+          "date": "2021-05-23"
+        },
+        "transactionFee": 399.191165
+      },
+      {
+        "date": {
+          "date": "2021-05-24"
+        },
+        "transactionFee": 368.06255
+      },
+      {
+        "date": {
+          "date": "2021-05-25"
+        },
+        "transactionFee": 308.90134
+      },
+      {
+        "date": {
+          "date": "2021-05-26"
+        },
+        "transactionFee": 312.281505
+      },
+      {
+        "date": {
+          "date": "2021-05-27"
+        },
+        "transactionFee": 311.173965
+      },
+      {
+        "date": {
+          "date": "2021-05-28"
+        },
+        "transactionFee": 302.09318
+      },
+      {
+        "date": {
+          "date": "2021-05-29"
+        },
+        "transactionFee": 301.78197
+      },
+      {
+        "date": {
+          "date": "2021-05-30"
+        },
+        "transactionFee": 322.616835
+      },
+      {
+        "date": {
+          "date": "2021-05-31"
+        },
+        "transactionFee": 367.05044
+      },
+      {
+        "date": {
+          "date": "2021-06-01"
+        },
+        "transactionFee": 380.975815
+      },
+      {
+        "date": {
+          "date": "2021-06-02"
+        },
+        "transactionFee": 394.147245
+      },
+      {
+        "date": {
+          "date": "2021-06-03"
+        },
+        "transactionFee": 390.310185
+      },
+      {
+        "date": {
+          "date": "2021-06-04"
+        },
+        "transactionFee": 408.115435
+      },
+      {
+        "date": {
+          "date": "2021-06-05"
+        },
+        "transactionFee": 386.712165
+      },
+      {
+        "date": {
+          "date": "2021-06-06"
+        },
+        "transactionFee": 364.915265
+      },
+      {
+        "date": {
+          "date": "2021-06-07"
+        },
+        "transactionFee": 365.969345
+      },
+      {
+        "date": {
+          "date": "2021-06-08"
+        },
+        "transactionFee": 369.73349
+      },
+      {
+        "date": {
+          "date": "2021-06-09"
+        },
+        "transactionFee": 363.056855
+      },
+      {
+        "date": {
+          "date": "2021-06-10"
+        },
+        "transactionFee": 364.008765
+      },
+      {
+        "date": {
+          "date": "2021-06-11"
+        },
+        "transactionFee": 305.74391
+      },
+      {
+        "date": {
+          "date": "2021-06-12"
+        },
+        "transactionFee": 347.327465
+      },
+      {
+        "date": {
+          "date": "2021-06-13"
+        },
+        "transactionFee": 342.88521
+      },
+      {
+        "date": {
+          "date": "2021-06-14"
+        },
+        "transactionFee": 339.10212
+      },
+      {
+        "date": {
+          "date": "2021-06-15"
+        },
+        "transactionFee": 330.800385
+      },
+      {
+        "date": {
+          "date": "2021-06-16"
+        },
+        "transactionFee": 345.17187
+      },
+      {
+        "date": {
+          "date": "2021-06-17"
+        },
+        "transactionFee": 358.403835
+      },
+      {
+        "date": {
+          "date": "2021-06-18"
+        },
+        "transactionFee": 354.75935
+      },
+      {
+        "date": {
+          "date": "2021-06-19"
+        },
+        "transactionFee": 337.031905
+      },
+      {
+        "date": {
+          "date": "2021-06-20"
+        },
+        "transactionFee": 340.18005
+      },
+      {
+        "date": {
+          "date": "2021-06-21"
+        },
+        "transactionFee": 328.63267
+      },
+      {
+        "date": {
+          "date": "2021-06-22"
+        },
+        "transactionFee": 308.92719
+      },
+      {
+        "date": {
+          "date": "2021-06-23"
+        },
+        "transactionFee": 356.89122
+      },
+      {
+        "date": {
+          "date": "2021-06-24"
+        },
+        "transactionFee": 366.87664
+      },
+      {
+        "date": {
+          "date": "2021-06-25"
+        },
+        "transactionFee": 364.226075
+      },
+      {
+        "date": {
+          "date": "2021-06-26"
+        },
+        "transactionFee": 357.993125
+      },
+      {
+        "date": {
+          "date": "2021-06-27"
+        },
+        "transactionFee": 357.09248
+      },
+      {
+        "date": {
+          "date": "2021-06-28"
+        },
+        "transactionFee": 356.448855
+      },
+      {
+        "date": {
+          "date": "2021-06-29"
+        },
+        "transactionFee": 352.032865
+      },
+      {
+        "date": {
+          "date": "2021-06-30"
+        },
+        "transactionFee": 347.13917
+      },
+      {
+        "date": {
+          "date": "2021-07-01"
+        },
+        "transactionFee": 347.123175
+      },
+      {
+        "date": {
+          "date": "2021-07-02"
+        },
+        "transactionFee": 336.41304
+      },
+      {
+        "date": {
+          "date": "2021-07-03"
+        },
+        "transactionFee": 332.88074
+      },
+      {
+        "date": {
+          "date": "2021-07-04"
+        },
+        "transactionFee": 337.562745
+      },
+      {
+        "date": {
+          "date": "2021-07-05"
+        },
+        "transactionFee": 365.005595
+      },
+      {
+        "date": {
+          "date": "2021-07-06"
+        },
+        "transactionFee": 360.6429
+      },
+      {
+        "date": {
+          "date": "2021-07-07"
+        },
+        "transactionFee": 358.725795
+      },
+      {
+        "date": {
+          "date": "2021-07-08"
+        },
+        "transactionFee": 352.18272
+      },
+      {
+        "date": {
+          "date": "2021-07-09"
+        },
+        "transactionFee": 349.27038
+      },
+      {
+        "date": {
+          "date": "2021-07-10"
+        },
+        "transactionFee": 348.60028
+      },
+      {
+        "date": {
+          "date": "2021-07-11"
+        },
+        "transactionFee": 346.439005
+      },
+      {
+        "date": {
+          "date": "2021-07-12"
+        },
+        "transactionFee": 348.252895
+      },
+      {
+        "date": {
+          "date": "2021-07-13"
+        },
+        "transactionFee": 357.01224
+      },
+      {
+        "date": {
+          "date": "2021-07-14"
+        },
+        "transactionFee": 359.508485
+      },
+      {
+        "date": {
+          "date": "2021-07-15"
+        },
+        "transactionFee": 350.225345
+      },
+      {
+        "date": {
+          "date": "2021-07-16"
+        },
+        "transactionFee": 359.485545
+      },
+      {
+        "date": {
+          "date": "2021-07-17"
+        },
+        "transactionFee": 335.909265
+      },
+      {
+        "date": {
+          "date": "2021-07-18"
+        },
+        "transactionFee": 324.545115
+      },
+      {
+        "date": {
+          "date": "2021-07-19"
+        },
+        "transactionFee": 339.93418
+      },
+      {
+        "date": {
+          "date": "2021-07-20"
+        },
+        "transactionFee": 348.98718
+      },
+      {
+        "date": {
+          "date": "2021-07-21"
+        },
+        "transactionFee": 344.81749
+      },
+      {
+        "date": {
+          "date": "2021-07-22"
+        },
+        "transactionFee": 339.28505
+      },
+      {
+        "date": {
+          "date": "2021-07-23"
+        },
+        "transactionFee": 343.11577
+      },
+      {
+        "date": {
+          "date": "2021-07-24"
+        },
+        "transactionFee": 346.94291
+      },
+      {
+        "date": {
+          "date": "2021-07-25"
+        },
+        "transactionFee": 344.78366
+      },
+      {
+        "date": {
+          "date": "2021-07-26"
+        },
+        "transactionFee": 359.732565
+      },
+      {
+        "date": {
+          "date": "2021-07-27"
+        },
+        "transactionFee": 401.898835
+      },
+      {
+        "date": {
+          "date": "2021-07-28"
+        },
+        "transactionFee": 449.38107
+      },
+      {
+        "date": {
+          "date": "2021-07-29"
+        },
+        "transactionFee": 473.517225
+      },
+      {
+        "date": {
+          "date": "2021-07-30"
+        },
+        "transactionFee": 624.95984
+      },
+      {
+        "date": {
+          "date": "2021-07-31"
+        },
+        "transactionFee": 621.315655
+      },
+      {
+        "date": {
+          "date": "2021-08-01"
+        },
+        "transactionFee": 633.308735
+      },
+      {
+        "date": {
+          "date": "2021-08-02"
+        },
+        "transactionFee": 645.993945
+      },
+      {
+        "date": {
+          "date": "2021-08-03"
+        },
+        "transactionFee": 647.226755
+      },
+      {
+        "date": {
+          "date": "2021-08-04"
+        },
+        "transactionFee": 654.92513
+      },
+      {
+        "date": {
+          "date": "2021-08-05"
+        },
+        "transactionFee": 655.22847
+      },
+      {
+        "date": {
+          "date": "2021-08-06"
+        },
+        "transactionFee": 637.617025
+      },
+      {
+        "date": {
+          "date": "2021-08-07"
+        },
+        "transactionFee": 637.352615
+      },
+      {
+        "date": {
+          "date": "2021-08-08"
+        },
+        "transactionFee": 636.245415
+      },
+      {
+        "date": {
+          "date": "2021-08-09"
+        },
+        "transactionFee": 621.45098
+      },
+      {
+        "date": {
+          "date": "2021-08-10"
+        },
+        "transactionFee": 633.339325
+      },
+      {
+        "date": {
+          "date": "2021-08-11"
+        },
+        "transactionFee": 638.677535
+      },
+      {
+        "date": {
+          "date": "2021-08-12"
+        },
+        "transactionFee": 616.428865
+      },
+      {
+        "date": {
+          "date": "2021-08-13"
+        },
+        "transactionFee": 607.33306
+      },
+      {
+        "date": {
+          "date": "2021-08-14"
+        },
+        "transactionFee": 604.508015
+      },
+      {
+        "date": {
+          "date": "2021-08-15"
+        },
+        "transactionFee": 606.07007
+      },
+      {
+        "date": {
+          "date": "2021-08-16"
+        },
+        "transactionFee": 593.222935
+      },
+      {
+        "date": {
+          "date": "2021-08-17"
+        },
+        "transactionFee": 591.07613
+      },
+      {
+        "date": {
+          "date": "2021-08-18"
+        },
+        "transactionFee": 579.808765
+      },
+      {
+        "date": {
+          "date": "2021-08-19"
+        },
+        "transactionFee": 590.375845
+      },
+      {
+        "date": {
+          "date": "2021-08-20"
+        },
+        "transactionFee": 660.9503
+      },
+      {
+        "date": {
+          "date": "2021-08-21"
+        },
+        "transactionFee": 667.67643
+      },
+      {
+        "date": {
+          "date": "2021-08-22"
+        },
+        "transactionFee": 666.346535
+      },
+      {
+        "date": {
+          "date": "2021-08-23"
+        },
+        "transactionFee": 660.32298
+      },
+      {
+        "date": {
+          "date": "2021-08-24"
+        },
+        "transactionFee": 271.409495
+      },
+      {
+        "date": {
+          "date": "2021-08-25"
+        },
+        "transactionFee": 677.2096
+      },
+      {
+        "date": {
+          "date": "2021-08-26"
+        },
+        "transactionFee": 683.021575
+      },
+      {
+        "date": {
+          "date": "2021-08-27"
+        },
+        "transactionFee": 666.147265
+      },
+      {
+        "date": {
+          "date": "2021-08-28"
+        },
+        "transactionFee": 702.174325
+      },
+      {
+        "date": {
+          "date": "2021-08-29"
+        },
+        "transactionFee": 702.56224
+      },
+      {
+        "date": {
+          "date": "2021-08-30"
+        },
+        "transactionFee": 757.706835
+      },
+      {
+        "date": {
+          "date": "2021-08-31"
+        },
+        "transactionFee": 768.139295
+      },
+      {
+        "date": {
+          "date": "2021-09-01"
+        },
+        "transactionFee": 803.482095
+      },
+      {
+        "date": {
+          "date": "2021-09-02"
+        },
+        "transactionFee": 830.384445
+      },
+      {
+        "date": {
+          "date": "2021-09-03"
+        },
+        "transactionFee": 877.166
+      },
+      {
+        "date": {
+          "date": "2021-09-04"
+        },
+        "transactionFee": 869.46508
+      },
+      {
+        "date": {
+          "date": "2021-09-05"
+        },
+        "transactionFee": 861.155405
+      },
+      {
+        "date": {
+          "date": "2021-09-06"
+        },
+        "transactionFee": 863.2919
+      },
+      {
+        "date": {
+          "date": "2021-09-07"
+        },
+        "transactionFee": 836.8342
+      },
+      {
+        "date": {
+          "date": "2021-09-08"
+        },
+        "transactionFee": 853.435275
+      },
+      {
+        "date": {
+          "date": "2021-09-09"
+        },
+        "transactionFee": 867.185715
+      },
+      {
+        "date": {
+          "date": "2021-09-10"
+        },
+        "transactionFee": 875.83482
+      },
+      {
+        "date": {
+          "date": "2021-09-11"
+        },
+        "transactionFee": 880.84938
+      },
+      {
+        "date": {
+          "date": "2021-09-12"
+        },
+        "transactionFee": 880.093755
+      },
+      {
+        "date": {
+          "date": "2021-09-13"
+        },
+        "transactionFee": 867.669455
+      },
+      {
+        "date": {
+          "date": "2021-09-14"
+        },
+        "transactionFee": 444.50274
+      },
+      {
+        "date": {
+          "date": "2021-09-16"
+        },
+        "transactionFee": 435.875415
+      },
+      {
+        "date": {
+          "date": "2021-09-17"
+        },
+        "transactionFee": 974.468525
+      },
+      {
+        "date": {
+          "date": "2021-09-18"
+        },
+        "transactionFee": 971.34273
+      },
+      {
+        "date": {
+          "date": "2021-09-19"
+        },
+        "transactionFee": 990.655705
+      },
+      {
+        "date": {
+          "date": "2021-09-20"
+        },
+        "transactionFee": 961.30934
+      },
+      {
+        "date": {
+          "date": "2021-09-21"
+        },
+        "transactionFee": 939.70084
+      },
+      {
+        "date": {
+          "date": "2021-09-22"
+        },
+        "transactionFee": 940.61479
+      },
+      {
+        "date": {
+          "date": "2021-09-23"
+        },
+        "transactionFee": 948.00622
+      },
+      {
+        "date": {
+          "date": "2021-09-24"
+        },
+        "transactionFee": 916.420965
+      },
+      {
+        "date": {
+          "date": "2021-09-25"
+        },
+        "transactionFee": 932.621595
+      },
+      {
+        "date": {
+          "date": "2021-09-26"
+        },
+        "transactionFee": 924.791455
+      },
+      {
+        "date": {
+          "date": "2021-09-27"
+        },
+        "transactionFee": 941.27192
+      },
+      {
+        "date": {
+          "date": "2021-09-28"
+        },
+        "transactionFee": 941.30443
+      },
+      {
+        "date": {
+          "date": "2021-09-29"
+        },
+        "transactionFee": 931.7649
+      },
+      {
+        "date": {
+          "date": "2021-09-30"
+        },
+        "transactionFee": 921.175145
+      },
+      {
+        "date": {
+          "date": "2021-10-01"
+        },
+        "transactionFee": 944.66322
+      },
+      {
+        "date": {
+          "date": "2021-10-02"
+        },
+        "transactionFee": 939.980295
+      },
+      {
+        "date": {
+          "date": "2021-10-03"
+        },
+        "transactionFee": 941.062365
+      },
+      {
+        "date": {
+          "date": "2021-10-04"
+        },
+        "transactionFee": 916.068305
+      },
+      {
+        "date": {
+          "date": "2021-10-05"
+        },
+        "transactionFee": 927.45044
+      },
+      {
+        "date": {
+          "date": "2021-10-06"
+        },
+        "transactionFee": 935.30201
+      },
+      {
+        "date": {
+          "date": "2021-10-07"
+        },
+        "transactionFee": 986.245225
+      },
+      {
+        "date": {
+          "date": "2021-10-08"
+        },
+        "transactionFee": 1074.22674
+      },
+      {
+        "date": {
+          "date": "2021-10-09"
+        },
+        "transactionFee": 1110.34012
+      },
+      {
+        "date": {
+          "date": "2021-10-10"
+        },
+        "transactionFee": 373.177215
+      },
+      {
+        "date": {
+          "date": "2021-10-11"
+        },
+        "transactionFee": 1085.27894
+      },
+      {
+        "date": {
+          "date": "2021-10-12"
+        },
+        "transactionFee": 1122.47708
+      },
+      {
+        "date": {
+          "date": "2021-10-13"
+        },
+        "transactionFee": 1182.74469
+      },
+      {
+        "date": {
+          "date": "2021-10-14"
+        },
+        "transactionFee": 1183.62226
+      },
+      {
+        "date": {
+          "date": "2021-10-15"
+        },
+        "transactionFee": 1210.72122
+      },
+      {
+        "date": {
+          "date": "2021-10-16"
+        },
+        "transactionFee": 1211.62387
+      },
+      {
+        "date": {
+          "date": "2021-10-17"
+        },
+        "transactionFee": 1189.758815
+      },
+      {
+        "date": {
+          "date": "2021-10-18"
+        },
+        "transactionFee": 1215.98788
+      },
+      {
+        "date": {
+          "date": "2021-10-19"
+        },
+        "transactionFee": 1217.961015
+      },
+      {
+        "date": {
+          "date": "2021-10-20"
+        },
+        "transactionFee": 1213.81886
+      },
+      {
+        "date": {
+          "date": "2021-10-21"
+        },
+        "transactionFee": 1089.405815
+      },
+      {
+        "date": {
+          "date": "2021-10-22"
+        },
+        "transactionFee": 550.215435
+      },
+      {
+        "date": {
+          "date": "2021-10-23"
+        },
+        "transactionFee": 70.80278
+      },
+      {
+        "date": {
+          "date": "2021-10-24"
+        },
+        "transactionFee": 854.77251
+      },
+      {
+        "date": {
+          "date": "2021-10-25"
+        },
+        "transactionFee": 1200.10667
+      },
+      {
+        "date": {
+          "date": "2021-10-26"
+        },
+        "transactionFee": 1209.568555
+      },
+      {
+        "date": {
+          "date": "2021-10-27"
+        },
+        "transactionFee": 1136.22341
+      },
+      {
+        "date": {
+          "date": "2021-10-28"
+        },
+        "transactionFee": 1166.64395
+      },
+      {
+        "date": {
+          "date": "2021-10-29"
+        },
+        "transactionFee": 1180.319375
+      },
+      {
+        "date": {
+          "date": "2021-10-30"
+        },
+        "transactionFee": 1199.70786
+      },
+      {
+        "date": {
+          "date": "2021-10-31"
+        },
+        "transactionFee": 1213.547405
+      },
+      {
+        "date": {
+          "date": "2021-11-01"
+        },
+        "transactionFee": 1173.297715
+      },
+      {
+        "date": {
+          "date": "2021-11-02"
+        },
+        "transactionFee": 1174.43614
+      },
+      {
+        "date": {
+          "date": "2021-11-03"
+        },
+        "transactionFee": 1163.06179
+      },
+      {
+        "date": {
+          "date": "2021-11-04"
+        },
+        "transactionFee": 1218.32767
+      },
+      {
+        "date": {
+          "date": "2021-11-05"
+        },
+        "transactionFee": 1224.846365
+      },
+      {
+        "date": {
+          "date": "2021-11-06"
+        },
+        "transactionFee": 1203.6701
+      },
+      {
+        "date": {
+          "date": "2021-11-07"
+        },
+        "transactionFee": 1201.742165
+      },
+      {
+        "date": {
+          "date": "2021-11-08"
+        },
+        "transactionFee": 1164.686045
+      },
+      {
+        "date": {
+          "date": "2021-11-09"
+        },
+        "transactionFee": 1174.655835
+      },
+      {
+        "date": {
+          "date": "2021-11-10"
+        },
+        "transactionFee": 1119.32071
+      },
+      {
+        "date": {
+          "date": "2021-11-11"
+        },
+        "transactionFee": 1187.07127
+      },
+      {
+        "date": {
+          "date": "2021-11-12"
+        },
+        "transactionFee": 1134.655285
+      },
+      {
+        "date": {
+          "date": "2021-11-13"
+        },
+        "transactionFee": 1228.51701
+      },
+      {
+        "date": {
+          "date": "2021-11-14"
+        },
+        "transactionFee": 1256.545465
+      },
+      {
+        "date": {
+          "date": "2021-11-15"
+        },
+        "transactionFee": 1245.98034
+      },
+      {
+        "date": {
+          "date": "2021-11-16"
+        },
+        "transactionFee": 1172.921995
+      },
+      {
+        "date": {
+          "date": "2021-11-17"
+        },
+        "transactionFee": 1188.72722
+      },
+      {
+        "date": {
+          "date": "2021-11-18"
+        },
+        "transactionFee": 1161.06112
+      },
+      {
+        "date": {
+          "date": "2021-11-19"
+        },
+        "transactionFee": 1231.58369
+      },
+      {
+        "date": {
+          "date": "2021-11-20"
+        },
+        "transactionFee": 1282.321945
+      },
+      {
+        "date": {
+          "date": "2021-11-21"
+        },
+        "transactionFee": 1274.20169
+      },
+      {
+        "date": {
+          "date": "2021-11-22"
+        },
+        "transactionFee": 1215.73694
+      },
+      {
+        "date": {
+          "date": "2021-11-23"
+        },
+        "transactionFee": 1158.59889
+      },
+      {
+        "date": {
+          "date": "2021-11-24"
+        },
+        "transactionFee": 1220.149075
+      },
+      {
+        "date": {
+          "date": "2021-11-25"
+        },
+        "transactionFee": 1214.81436
+      },
+      {
+        "date": {
+          "date": "2021-11-26"
+        },
+        "transactionFee": 1113.11125
+      },
+      {
+        "date": {
+          "date": "2021-11-27"
+        },
+        "transactionFee": 1216.56249
+      },
+      {
+        "date": {
+          "date": "2021-11-28"
+        },
+        "transactionFee": 1221.06287
+      },
+      {
+        "date": {
+          "date": "2021-11-29"
+        },
+        "transactionFee": 1147.898955
+      },
+      {
+        "date": {
+          "date": "2021-11-30"
+        },
+        "transactionFee": 1156.0527
+      },
+      {
+        "date": {
+          "date": "2021-12-01"
+        },
+        "transactionFee": 1118.275645
+      },
+      {
+        "date": {
+          "date": "2021-12-02"
+        },
+        "transactionFee": 1045.47303
+      },
+      {
+        "date": {
+          "date": "2021-12-03"
+        },
+        "transactionFee": 1005.42823
+      },
+      {
+        "date": {
+          "date": "2021-12-04"
+        },
+        "transactionFee": 863.197705
+      },
+      {
+        "date": {
+          "date": "2021-12-05"
+        },
+        "transactionFee": 1084.34903
+      },
+      {
+        "date": {
+          "date": "2021-12-06"
+        },
+        "transactionFee": 791.41755
+      }
+    ]
+  }
+}
