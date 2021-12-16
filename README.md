@@ -2,7 +2,7 @@
 
 [etherscan api](https://docs.etherscan.io/api-endpoints/stats-1)
 
-[sol tx's](https://graphql.bitquery.io/ide/R8xcHwIKVV)
+## Ethereum
 
 ## Avax data
 
@@ -12,7 +12,11 @@
 
 [block rewards](https://snowtrace.io/chart/blocks)
 
+[fee burn](https://snowtrace.io/chart/dailyburnt)
+
 ## Solana
+
+[sol daily tx fees](https://graphql.bitquery.io/ide/R8xcHwIKVV)
 
 ```md
 Zantetsu | Shinobi Systems: "Private Cluster Mainnet Endpoint
