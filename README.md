@@ -1,10 +1,16 @@
 # Crypto Stats
 
-[etherscan api](https://docs.etherscan.io/api-endpoints/stats-1)
-
 ## Ethereum
 
+Run the script with `python etherscan.py`
+
+[etherscan api docs](https://docs.etherscan.io/api-endpoints/stats-1)
+
 ## Avax data
+
+To run the avax script with updated data visit the links below and download the CSVs and copy them into the `data/avax` directory.
+
+Run the script with `python coingecko.py`
 
 [avg gas price](https://snowtrace.io/chart/gasprice)
 
@@ -16,18 +22,8 @@
 
 ## Solana
 
+To run the solana script with updated data copy and paste the data from the graphql query below into `data/sol/solana.json`.
+
+Run the script with `python bitquery.py`
+
 [sol daily tx fees](https://graphql.bitquery.io/ide/R8xcHwIKVV)
-
-```md
-Zantetsu | Shinobi Systems: "Private Cluster Mainnet Endpoint
-https://ssc-dao.genesysgo.net/
-https://genesysgo.com/#faq
-https://www.deso.org/
-
-☝️ Handles both https and wss connections. Unlimited RPS, unlimited data, global DNS load balancing for lowest latency, backed up by 300+ bare metal servers in 9 countries across 3 different continents. Also has the full ledger history back to the genesis block. Enjoy!
-
-👇 Devnet endpoints, they're uglier bc it's just devnet but they work just fine!
-Private Cluster Devnet 
-https://psytrbhymqlkfrhudd.dev.genesysgo.net:8899/
-wss://psytrbhymqlkfrhudd.dev.genesysgo.net:8900/"
-```
