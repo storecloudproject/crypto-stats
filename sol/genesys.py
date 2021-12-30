@@ -45,7 +45,7 @@ res = requests.post(sol_endpoint, headers={'Content-Type': 'application/json'}, 
 payload = res.json()
 # rewards = payload.get('result').get('rewards')
 
-file = open('sol.json', 'w')
+file = open('data/sol/sol-dump.json', 'w')
 file.write(json.dumps(payload))
 file.close()
 print()

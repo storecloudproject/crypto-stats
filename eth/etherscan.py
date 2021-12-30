@@ -2,6 +2,7 @@ import os
 import time
 import datetime
 import requests
+import csv
 
 ETHERSCAN_TOKEN = os.getenv('ETHERSCAN_TOKEN')
 
@@ -67,3 +68,33 @@ print('total 30 day miner income (USD): ${}'.format(
     block_reward_sum_usd+fee_sum_usd))
 print('30 day average miner income (USD): ${}'.format(
     (block_reward_sum_usd+fee_sum_usd)/30))
+
+# get fee burn data
+fee_burn_data = csv.DictReader(open('./data/eth/export-DailyEthBurnt.csv'))
+fee_burn_dict = [d for d in fee_burn_data]
+last_30_days_fee_burn = fee_burn_dict[-30:]
+
+fee_burn_sum = 0
+fee_burn_usd = 0
+
+for day in last_30_days_fee_burn:
+    fee_burn_eth = float(day.get('BurntFees'))
+    fee_burn_sum += float(fee_burn_eth)
+
+    date = day.get('Date(UTC)').split('/')
+    date = '-'.join([date[1], date[0], date[2]])
+
+    eth_price_res = requests.get(
+        'https://api.coingecko.com/api/v3/coins/ethereum/history?date={}'.format(date))
+    res_data = eth_price_res.json()
+    daily_price = res_data.get('market_data').get('current_price').get('usd')
+
+    fee_burn_usd += daily_price * fee_burn_eth
+
+print()
+print('total 30 day fee burn (USD): ${}'.format(fee_burn_usd))
+print('30 day average fee burn (USD): ${}'.format((fee_burn_usd)/30))
+
+print()
+print('total 30 day fee burn (ETH): {}'.format(fee_burn_sum))
+print('30 day average fee burn (ETH): {}'.format((fee_burn_sum)/30))

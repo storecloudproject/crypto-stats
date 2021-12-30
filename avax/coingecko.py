@@ -24,10 +24,6 @@ fee_burn_usd = 0
 
 WEI_TO_AVAX = 1000000000000000000
 
-fee_burn_data = csv.DictReader(open('./data/avax/export-DailyBurnt.csv'))
-fee_burn_dict = [d for d in fee_burn_data]
-last_30_days_fee_burn = fee_burn_dict[-30:]
-
 
 for i, row in super_frame.tail(30).iterrows():
     date = datetime.datetime.fromtimestamp(
@@ -50,7 +46,12 @@ for i, row in super_frame.tail(30).iterrows():
     fee_sum += gas_paid_avax
     fee_sum_usd += gas_paid_avax * daily_price
 
+
 # get fee burn data
+fee_burn_data = csv.DictReader(open('./data/avax/export-DailyBurnt.csv'))
+fee_burn_dict = [d for d in fee_burn_data]
+last_30_days_fee_burn = fee_burn_dict[-30:]
+
 for day in last_30_days_fee_burn:
     fee_burn = float(day.get('BurntFees'))
     fee_burn_sum += float(fee_burn)
