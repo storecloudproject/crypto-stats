@@ -1,4 +1,5 @@
 import requests
+import json
 
 sol_endpoint = 'https://ssc-dao.genesysgo.net'
 
