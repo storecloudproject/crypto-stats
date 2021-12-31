@@ -2,7 +2,11 @@
 
 ## Ethereum
 
+To run the eth script with updated data visit the link below and download the CSV and copy it into the `data/eth` directory.
+
 Run the script with `python etherscan.py`
+
+[daily fee burn](https://etherscan.io/chart/dailyethburnt)
 
 [etherscan api docs](https://docs.etherscan.io/api-endpoints/stats-1)
 
