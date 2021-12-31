@@ -3,15 +3,6 @@ import json
 
 sol_endpoint = 'https://ssc-dao.genesysgo.net'
 
-res = requests.post(sol_endpoint, headers={'Content-Type': 'application/json'}, json={
-    "jsonrpc": "2.0",
-    "id": 1,
-    "method": "getEpochSchedule",
-})
-
-payload = res.json()
-print(payload)
-print()
 
 res = requests.post(sol_endpoint, headers={'Content-Type': 'application/json'}, json={
     "jsonrpc": "2.0",
@@ -43,7 +34,6 @@ res = requests.post(sol_endpoint, headers={'Content-Type': 'application/json'}, 
 })
 
 payload = res.json()
-# rewards = payload.get('result').get('rewards')
 
 file = open('data/sol/sol-dump.json', 'w')
 file.write(json.dumps(payload))
