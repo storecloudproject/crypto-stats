@@ -1,16 +1,26 @@
 import os
-import time
+import json
 import datetime
 import requests
 import csv
 
 ETHERSCAN_TOKEN = os.getenv('ETHERSCAN_TOKEN')
 
-latest_block = 'https://api.etherscan.io/api?module={}&action={}&timestamp={}&closest={}&apikey={}'.format(
-    'block', 'getblocknobytime', str(int(time.time())), 'before', ETHERSCAN_TOKEN)
-
 dt = datetime.datetime.now()
 dt_30_days_ago = dt - datetime.timedelta(days=30)
+
+etherscan_endpoint = 'https://api.etherscan.io/api?module={}&action={}&startdate={}&enddate={}&sort={}&apikey={}'.format(
+    'stats', 'dailytx', dt_30_days_ago.strftime('%Y-%m-%d'), dt.strftime('%Y-%m-%d'), 'asc', ETHERSCAN_TOKEN)
+
+res = requests.get(etherscan_endpoint)
+daily_txs = res.json()
+daily_txs_list = daily_txs.get('result')
+tx_count = 0
+
+for day in daily_txs_list:
+    tx_count += int(day.get('transactionCount'))
+
+print('30 day total txs', tx_count)
 
 etherscan_endpoint = 'https://api.etherscan.io/api?module={}&action={}&startdate={}&enddate={}&sort={}&apikey={}'.format(
     'stats', 'dailytxnfee', dt_30_days_ago.strftime('%Y-%m-%d'), dt.strftime('%Y-%m-%d'), 'asc', ETHERSCAN_TOKEN)
@@ -23,8 +33,20 @@ fee_sum = 0
 for day in daily_fees_list:
     fee_sum += float(day.get('transactionFee_Eth'))
 
+print()
 print('30 day total fees paid to miners (ETH)', fee_sum)
 print('daily avg fees paid to miners (ETH)', fee_sum/30)
+
+daily_fees_and_tx_counts = []
+for tx_count, fee_total in zip(daily_txs_list, daily_fees_list):
+    daily_fees_and_tx_counts.append({
+        'utc_date': tx_count.get('UTCDate'),
+        'tx_count': tx_count.get('transactionCount'),
+        'tx_fees_paid_to_miners_eth': float(fee_total.get('transactionFee_Eth')),
+    })
+
+print()
+print('average fee per tx per day')
 
 etherscan_endpoint = 'https://api.etherscan.io/api?module={}&action={}&startdate={}&enddate={}&sort={}&apikey={}'.format(
     'stats', 'ethdailyprice', dt_30_days_ago.strftime('%Y-%m-%d'), dt.strftime('%Y-%m-%d'), 'asc', ETHERSCAN_TOKEN)
@@ -76,12 +98,13 @@ last_30_days_fee_burn = fee_burn_dict[-30:]
 
 fee_burn_sum = 0
 fee_burn_usd = 0
+fee_paid_sum_usd = 0
 
-for day in last_30_days_fee_burn:
-    fee_burn_eth = float(day.get('BurntFees'))
+for day_burn, day_fees_txs in zip(last_30_days_fee_burn, daily_fees_and_tx_counts):
+    fee_burn_eth = float(day_burn.get('BurntFees'))
     fee_burn_sum += float(fee_burn_eth)
 
-    date = day.get('Date(UTC)').split('/')
+    date = day_burn.get('Date(UTC)').split('/')
     date = '-'.join([date[1], date[0], date[2]])
 
     eth_price_res = requests.get(
@@ -89,7 +112,24 @@ for day in last_30_days_fee_burn:
     res_data = eth_price_res.json()
     daily_price = res_data.get('market_data').get('current_price').get('usd')
 
-    fee_burn_usd += daily_price * fee_burn_eth
+    day_fees_eth = float(day_fees_txs.get('tx_fees_paid_to_miners_eth'))
+    tx_fee_usd = daily_price * day_fees_eth
+    day_fees_txs['tx_fees_paid_to_miners_usd'] = tx_fee_usd
+    day_fees_txs['avg_tx_fee_paid_to_miners_usd'] = tx_fee_usd / \
+        day_fees_txs['tx_count']
+
+    fees_paid_by_users = (fee_burn_eth + day_fees_eth) * daily_price
+    day_fees_txs['tx_fees_paid_by_users_usd'] = fees_paid_by_users
+    day_fees_txs['avg_fees_paid_by_users_usd'] = fees_paid_by_users / \
+        day_fees_txs['tx_count']
+
+    fee_paid_sum_usd += fees_paid_by_users
+
+    fee_burn_usd += daily_price * float(fee_burn_eth)
+
+file = open('data/eth/eth.json', 'w')
+file.write(json.dumps(daily_fees_and_tx_counts))
+file.close()
 
 print()
 print('total 30 day fee burn (USD): ${}'.format(fee_burn_usd))
@@ -98,3 +138,7 @@ print('30 day average fee burn (USD): ${}'.format((fee_burn_usd)/30))
 print()
 print('total 30 day fee burn (ETH): {}'.format(fee_burn_sum))
 print('30 day average fee burn (ETH): {}'.format((fee_burn_sum)/30))
+
+print()
+print('total 30 day fees paid by users (ETH): {}'.format(fee_burn_sum+fee_sum))
+print('total 30 day fees paid by users (USD): {}'.format(fee_paid_sum_usd))

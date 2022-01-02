@@ -1,0 +1,242 @@
+[
+  {
+    "date": "02-12-2021",
+    "tx_count": 627682,
+    "approx_fees_paid_by_users_avax": 5603.0874381870135,
+    "approx_fees_paid_by_users_usd": 668277.0035512722,
+    "avg_fees_paid_by_users_usd": 1.0646744745767318,
+    "avg_fees_paid_to_miners_usd": 228875.06569702463
+  },
+  {
+    "date": "03-12-2021",
+    "tx_count": 655752,
+    "approx_fees_paid_by_users_avax": 8188.277459288801,
+    "approx_fees_paid_by_users_usd": 884914.1589980387,
+    "avg_fees_paid_by_users_usd": 1.3494646741421128,
+    "avg_fees_paid_to_miners_usd": -295059.5020240423
+  },
+  {
+    "date": "04-12-2021",
+    "tx_count": 493018,
+    "approx_fees_paid_by_users_avax": 3686.1311792262686,
+    "approx_fees_paid_by_users_usd": 399408.9587810217,
+    "avg_fees_paid_by_users_usd": 0.8101305809950584,
+    "avg_fees_paid_to_miners_usd": -1042097.7446071736
+  },
+  {
+    "date": "05-12-2021",
+    "tx_count": 639438,
+    "approx_fees_paid_by_users_avax": 4921.377599171716,
+    "approx_fees_paid_by_users_usd": 454557.8383971519,
+    "avg_fees_paid_by_users_usd": 0.7108708559659449,
+    "avg_fees_paid_to_miners_usd": -1306490.666371448
+  },
+  {
+    "date": "06-12-2021",
+    "tx_count": 615379,
+    "approx_fees_paid_by_users_avax": 4166.160367163579,
+    "approx_fees_paid_by_users_usd": 356902.85474854824,
+    "avg_fees_paid_by_users_usd": 0.5799724312148258,
+    "avg_fees_paid_to_miners_usd": -1698897.207747339
+  },
+  {
+    "date": "07-12-2021",
+    "tx_count": 750855,
+    "approx_fees_paid_by_users_avax": 5038.361039948302,
+    "approx_fees_paid_by_users_usd": 468102.49168327986,
+    "avg_fees_paid_by_users_usd": 0.6234259499947125,
+    "avg_fees_paid_to_miners_usd": -1936021.5083723043
+  },
+  {
+    "date": "08-12-2021",
+    "tx_count": 700843,
+    "approx_fees_paid_by_users_avax": 4874.125011933903,
+    "approx_fees_paid_by_users_usd": 438260.31904158945,
+    "avg_fees_paid_by_users_usd": 0.6253330903520324,
+    "avg_fees_paid_to_miners_usd": -2318274.9716206924
+  },
+  {
+    "date": "09-12-2021",
+    "tx_count": 668402,
+    "approx_fees_paid_by_users_avax": 4757.900755331244,
+    "approx_fees_paid_by_users_usd": 442394.97836565395,
+    "avg_fees_paid_by_users_usd": 0.6618696209252126,
+    "avg_fees_paid_to_miners_usd": -2627148.1775615728
+  },
+  {
+    "date": "10-12-2021",
+    "tx_count": 626314,
+    "approx_fees_paid_by_users_avax": 4269.584778334464,
+    "approx_fees_paid_by_users_usd": 368781.2386708606,
+    "avg_fees_paid_by_users_usd": 0.5888120633913031,
+    "avg_fees_paid_to_miners_usd": -2973524.323062201
+  },
+  {
+    "date": "11-12-2021",
+    "tx_count": 625384,
+    "approx_fees_paid_by_users_avax": 4841.313246453291,
+    "approx_fees_paid_by_users_usd": 395797.10185392894,
+    "avg_fees_paid_by_users_usd": 0.6328865174899405,
+    "avg_fees_paid_to_miners_usd": -3273360.27244505
+  },
+  {
+    "date": "12-12-2021",
+    "tx_count": 722863,
+    "approx_fees_paid_by_users_avax": 8835.111123132092,
+    "approx_fees_paid_by_users_usd": 760553.9896454703,
+    "avg_fees_paid_by_users_usd": 1.0521412627918019,
+    "avg_fees_paid_to_miners_usd": -3548601.0317437598
+  },
+  {
+    "date": "13-12-2021",
+    "tx_count": 717077,
+    "approx_fees_paid_by_users_avax": 5864.858415562633,
+    "approx_fees_paid_by_users_usd": 517358.7242005595,
+    "avg_fees_paid_by_users_usd": 0.7214828033817282,
+    "avg_fees_paid_to_miners_usd": -4169155.741476014
+  },
+  {
+    "date": "14-12-2021",
+    "tx_count": 731079,
+    "approx_fees_paid_by_users_avax": 5004.5784966957945,
+    "approx_fees_paid_by_users_usd": 394862.86077545845,
+    "avg_fees_paid_by_users_usd": 0.5401097019275051,
+    "avg_fees_paid_to_miners_usd": -4637266.745221498
+  },
+  {
+    "date": "15-12-2021",
+    "tx_count": 734852,
+    "approx_fees_paid_by_users_avax": 4759.217520990063,
+    "approx_fees_paid_by_users_usd": 415205.78763744264,
+    "avg_fees_paid_by_users_usd": 0.5650196061757233,
+    "avg_fees_paid_to_miners_usd": -4983145.688716868
+  },
+  {
+    "date": "16-12-2021",
+    "tx_count": 756012,
+    "approx_fees_paid_by_users_avax": 5272.727878977047,
+    "approx_fees_paid_by_users_usd": 531471.690363086,
+    "avg_fees_paid_by_users_usd": 0.7029937228021327,
+    "avg_fees_paid_to_miners_usd": -5279844.667312355
+  },
+  {
+    "date": "17-12-2021",
+    "tx_count": 693769,
+    "approx_fees_paid_by_users_avax": 4177.188950776023,
+    "approx_fees_paid_by_users_usd": 412054.923197438,
+    "avg_fees_paid_by_users_usd": 0.5939367760701877,
+    "avg_fees_paid_to_miners_usd": -5780392.854760488
+  },
+  {
+    "date": "18-12-2021",
+    "tx_count": 645638,
+    "approx_fees_paid_by_users_avax": 3965.1103709040126,
+    "approx_fees_paid_by_users_usd": 442509.94505742844,
+    "avg_fees_paid_by_users_usd": 0.6853839846127837,
+    "avg_fees_paid_to_miners_usd": -6115787.379367
+  },
+  {
+    "date": "19-12-2021",
+    "tx_count": 877021,
+    "approx_fees_paid_by_users_avax": 8690.860398942776,
+    "approx_fees_paid_by_users_usd": 1005484.7984856984,
+    "avg_fees_paid_by_users_usd": 1.146477448642277,
+    "avg_fees_paid_to_miners_usd": -6350483.4179824665
+  },
+  {
+    "date": "20-12-2021",
+    "tx_count": 893548,
+    "approx_fees_paid_by_users_avax": 6341.312556191384,
+    "approx_fees_paid_by_users_usd": 686471.1664553324,
+    "avg_fees_paid_by_users_usd": 0.7682532627853595,
+    "avg_fees_paid_to_miners_usd": -7232903.156896286
+  },
+  {
+    "date": "21-12-2021",
+    "tx_count": 959720,
+    "approx_fees_paid_by_users_avax": 9902.007833653797,
+    "approx_fees_paid_by_users_usd": 1131652.668256521,
+    "avg_fees_paid_by_users_usd": 1.179148781161715,
+    "avg_fees_paid_to_miners_usd": -7799849.031828366
+  },
+  {
+    "date": "22-12-2021",
+    "tx_count": 827044,
+    "approx_fees_paid_by_users_avax": 5436.27612757707,
+    "approx_fees_paid_by_users_usd": 671231.8856576711,
+    "avg_fees_paid_by_users_usd": 0.8116035974599551,
+    "avg_fees_paid_to_miners_usd": -8759589.265290352
+  },
+  {
+    "date": "23-12-2021",
+    "tx_count": 649323,
+    "approx_fees_paid_by_users_avax": 4368.371060639563,
+    "approx_fees_paid_by_users_usd": 509328.4358543765,
+    "avg_fees_paid_by_users_usd": 0.7843991909332898,
+    "avg_fees_paid_to_miners_usd": -9339523.641663495
+  },
+  {
+    "date": "24-12-2021",
+    "tx_count": 496372,
+    "approx_fees_paid_by_users_avax": 2975.3801927483537,
+    "approx_fees_paid_by_users_usd": 362902.12414198875,
+    "avg_fees_paid_by_users_usd": 0.7311091764684324,
+    "avg_fees_paid_to_miners_usd": -9760334.4858529
+  },
+  {
+    "date": "25-12-2021",
+    "tx_count": 556615,
+    "approx_fees_paid_by_users_avax": 3553.285540783874,
+    "approx_fees_paid_by_users_usd": 408974.86194245424,
+    "avg_fees_paid_by_users_usd": 0.7347535764261729,
+    "avg_fees_paid_to_miners_usd": -10023252.938712027
+  },
+  {
+    "date": "26-12-2021",
+    "tx_count": 665344,
+    "approx_fees_paid_by_users_avax": 4387.22669043753,
+    "approx_fees_paid_by_users_usd": 505851.1706418986,
+    "avg_fees_paid_by_users_usd": 0.7602851617237077,
+    "avg_fees_paid_to_miners_usd": -10318883.337418817
+  },
+  {
+    "date": "27-12-2021",
+    "tx_count": 696089,
+    "approx_fees_paid_by_users_avax": 4643.719805905572,
+    "approx_fees_paid_by_users_usd": 536119.1553823543,
+    "avg_fees_paid_by_users_usd": 0.7701876561508001,
+    "avg_fees_paid_to_miners_usd": -10701206.008624561
+  },
+  {
+    "date": "28-12-2021",
+    "tx_count": 601794,
+    "approx_fees_paid_by_users_avax": 3898.5563680202317,
+    "approx_fees_paid_by_users_usd": 444540.2752815692,
+    "avg_fees_paid_by_users_usd": 0.7386917704090922,
+    "avg_fees_paid_to_miners_usd": -11117720.088507824
+  },
+  {
+    "date": "29-12-2021",
+    "tx_count": 586505,
+    "approx_fees_paid_by_users_avax": 3753.0905392002473,
+    "approx_fees_paid_by_users_usd": 404192.5793822477,
+    "avg_fees_paid_by_users_usd": 0.689154533008666,
+    "avg_fees_paid_to_miners_usd": -11453143.590044534
+  },
+  {
+    "date": "30-12-2021",
+    "tx_count": 558763,
+    "approx_fees_paid_by_users_avax": 3488.866737585057,
+    "approx_fees_paid_by_users_usd": 361451.9969541716,
+    "avg_fees_paid_by_users_usd": 0.6468789038539983,
+    "avg_fees_paid_to_miners_usd": -11760800.121548107
+  },
+  {
+    "date": "31-12-2021",
+    "tx_count": 515658,
+    "approx_fees_paid_by_users_avax": 3144.5736115868126,
+    "approx_fees_paid_by_users_usd": 319303.65525222186,
+    "avg_fees_paid_by_users_usd": 0.6192159440020747,
+    "avg_fees_paid_to_miners_usd": -12064259.538725847
+  }
+]

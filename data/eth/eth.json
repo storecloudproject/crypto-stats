@@ -1,0 +1,273 @@
+[
+  {
+    "utc_date": "2021-12-02",
+    "tx_count": 1265286,
+    "tx_fees_paid_to_miners_eth": 1605.3229167641045,
+    "tx_fees_paid_to_miners_usd": 7255162.25325853,
+    "avg_tx_fee_paid_to_miners_usd": 5.734009744246384,
+    "tx_fees_paid_by_users_usd": 50760403.320513174,
+    "avg_fees_paid_by_users_usd": 40.117730948191294
+  },
+  {
+    "utc_date": "2021-12-03",
+    "tx_count": 1211488,
+    "tx_fees_paid_to_miners_eth": 1212.300130578483,
+    "tx_fees_paid_to_miners_usd": 5140341.086700574,
+    "avg_tx_fee_paid_to_miners_usd": 4.242997938651125,
+    "tx_fees_paid_by_users_usd": 58142536.60161955,
+    "avg_fees_paid_by_users_usd": 47.99266406404318
+  },
+  {
+    "utc_date": "2021-12-04",
+    "tx_count": 1235697,
+    "tx_fees_paid_to_miners_eth": 1860.390414197858,
+    "tx_fees_paid_to_miners_usd": 7630682.97781431,
+    "avg_tx_fee_paid_to_miners_usd": 6.175205554285808,
+    "tx_fees_paid_by_users_usd": 44347306.14909037,
+    "avg_fees_paid_by_users_usd": 35.888495439489105
+  },
+  {
+    "utc_date": "2021-12-05",
+    "tx_count": 1386491,
+    "tx_fees_paid_to_miners_eth": 1264.9186541501504,
+    "tx_fees_paid_to_miners_usd": 5310853.149842878,
+    "avg_tx_fee_paid_to_miners_usd": 3.8304274242262504,
+    "tx_fees_paid_by_users_usd": 44885207.71626677,
+    "avg_fees_paid_by_users_usd": 32.37324130936788
+  },
+  {
+    "utc_date": "2021-12-06",
+    "tx_count": 1244773,
+    "tx_fees_paid_to_miners_eth": 1325.07452811669,
+    "tx_fees_paid_to_miners_usd": 5760914.730147483,
+    "avg_tx_fee_paid_to_miners_usd": 4.628084582608622,
+    "tx_fees_paid_by_users_usd": 41874867.797256924,
+    "avg_fees_paid_by_users_usd": 33.640565627031535
+  },
+  {
+    "utc_date": "2021-12-07",
+    "tx_count": 1224771,
+    "tx_fees_paid_to_miners_eth": 1136.2104482123675,
+    "tx_fees_paid_to_miners_usd": 4897710.861383298,
+    "avg_tx_fee_paid_to_miners_usd": 3.998878860932614,
+    "tx_fees_paid_by_users_usd": 35239885.49997417,
+    "avg_fees_paid_by_users_usd": 28.77263218999647
+  },
+  {
+    "utc_date": "2021-12-08",
+    "tx_count": 1296307,
+    "tx_fees_paid_to_miners_eth": 1021.3116627832281,
+    "tx_fees_paid_to_miners_usd": 4525984.1470217705,
+    "avg_tx_fee_paid_to_miners_usd": 3.491444655488068,
+    "tx_fees_paid_by_users_usd": 37130236.591510095,
+    "avg_fees_paid_by_users_usd": 28.64308886051691
+  },
+  {
+    "utc_date": "2021-12-09",
+    "tx_count": 1251338,
+    "tx_fees_paid_to_miners_eth": 1121.480257911031,
+    "tx_fees_paid_to_miners_usd": 4657881.312501436,
+    "avg_tx_fee_paid_to_miners_usd": 3.722320677947474,
+    "tx_fees_paid_by_users_usd": 38061005.46063414,
+    "avg_fees_paid_by_users_usd": 30.416246817913418
+  },
+  {
+    "utc_date": "2021-12-10",
+    "tx_count": 1237735,
+    "tx_fees_paid_to_miners_eth": 1455.8973427182175,
+    "tx_fees_paid_to_miners_usd": 5704498.050556904,
+    "avg_tx_fee_paid_to_miners_usd": 4.608820184091832,
+    "tx_fees_paid_by_users_usd": 32544265.325508177,
+    "avg_fees_paid_by_users_usd": 26.293403131937108
+  },
+  {
+    "utc_date": "2021-12-11",
+    "tx_count": 1199384,
+    "tx_fees_paid_to_miners_eth": 878.57157476694,
+    "tx_fees_paid_to_miners_usd": 3584409.4283084413,
+    "avg_tx_fee_paid_to_miners_usd": 2.988541975137605,
+    "tx_fees_paid_by_users_usd": 26982208.924988598,
+    "avg_fees_paid_by_users_usd": 22.496722421666952
+  },
+  {
+    "utc_date": "2021-12-12",
+    "tx_count": 1181898,
+    "tx_fees_paid_to_miners_eth": 830.6844190476351,
+    "tx_fees_paid_to_miners_usd": 3435579.1021215897,
+    "avg_tx_fee_paid_to_miners_usd": 2.9068321480547303,
+    "tx_fees_paid_by_users_usd": 33971859.85416334,
+    "avg_fees_paid_by_users_usd": 28.74347858627677
+  },
+  {
+    "utc_date": "2021-12-13",
+    "tx_count": 1242978,
+    "tx_fees_paid_to_miners_eth": 1498.4155709329737,
+    "tx_fees_paid_to_miners_usd": 5668349.164141071,
+    "avg_tx_fee_paid_to_miners_usd": 4.560297257184819,
+    "tx_fees_paid_by_users_usd": 31609892.801093586,
+    "avg_fees_paid_by_users_usd": 25.430774157783635
+  },
+  {
+    "utc_date": "2021-12-14",
+    "tx_count": 1214900,
+    "tx_fees_paid_to_miners_eth": 1132.4162424281471,
+    "tx_fees_paid_to_miners_usd": 4369048.109726976,
+    "avg_tx_fee_paid_to_miners_usd": 3.5962203553600918,
+    "tx_fees_paid_by_users_usd": 35426221.67993477,
+    "avg_fees_paid_by_users_usd": 29.15978408094063
+  },
+  {
+    "utc_date": "2021-12-15",
+    "tx_count": 1258462,
+    "tx_fees_paid_to_miners_eth": 1091.3676366507284,
+    "tx_fees_paid_to_miners_usd": 4382629.621541533,
+    "avg_tx_fee_paid_to_miners_usd": 3.482528373158294,
+    "tx_fees_paid_by_users_usd": 42209869.77912041,
+    "avg_fees_paid_by_users_usd": 33.54083776794246
+  },
+  {
+    "utc_date": "2021-12-16",
+    "tx_count": 1155456,
+    "tx_fees_paid_to_miners_eth": 1005.3252460079125,
+    "tx_fees_paid_to_miners_usd": 3992709.2991330125,
+    "avg_tx_fee_paid_to_miners_usd": 3.4555269081064206,
+    "tx_fees_paid_by_users_usd": 35680564.58323706,
+    "avg_fees_paid_by_users_usd": 30.88007209555107
+  },
+  {
+    "utc_date": "2021-12-17",
+    "tx_count": 1270355,
+    "tx_fees_paid_to_miners_eth": 2120.431007819007,
+    "tx_fees_paid_to_miners_usd": 8241579.625346177,
+    "avg_tx_fee_paid_to_miners_usd": 6.487619307474034,
+    "tx_fees_paid_by_users_usd": 31633035.68567795,
+    "avg_fees_paid_by_users_usd": 24.900941615279155
+  },
+  {
+    "utc_date": "2021-12-18",
+    "tx_count": 1159873,
+    "tx_fees_paid_to_miners_eth": 738.355169558765,
+    "tx_fees_paid_to_miners_usd": 2928630.663074894,
+    "avg_tx_fee_paid_to_miners_usd": 2.524958045471266,
+    "tx_fees_paid_by_users_usd": 22418729.049178652,
+    "avg_fees_paid_by_users_usd": 19.328606708819546
+  },
+  {
+    "utc_date": "2021-12-19",
+    "tx_count": 1137581,
+    "tx_fees_paid_to_miners_eth": 1525.7260853276641,
+    "tx_fees_paid_to_miners_usd": 5994336.30323464,
+    "avg_tx_fee_paid_to_miners_usd": 5.269370975108269,
+    "tx_fees_paid_by_users_usd": 29955520.265348677,
+    "avg_fees_paid_by_users_usd": 26.332648194149407
+  },
+  {
+    "utc_date": "2021-12-20",
+    "tx_count": 1201239,
+    "tx_fees_paid_to_miners_eth": 1186.2013751567658,
+    "tx_fees_paid_to_miners_usd": 4686067.645906497,
+    "avg_tx_fee_paid_to_miners_usd": 3.9010285596009595,
+    "tx_fees_paid_by_users_usd": 28855333.023282167,
+    "avg_fees_paid_by_users_usd": 24.021308851346124
+  },
+  {
+    "utc_date": "2021-12-21",
+    "tx_count": 1203638,
+    "tx_fees_paid_to_miners_eth": 840.7014107551498,
+    "tx_fees_paid_to_miners_usd": 3393533.0423490508,
+    "avg_tx_fee_paid_to_miners_usd": 2.8193967308684593,
+    "tx_fees_paid_by_users_usd": 31694936.709407374,
+    "avg_fees_paid_by_users_usd": 26.332615545045417
+  },
+  {
+    "utc_date": "2021-12-22",
+    "tx_count": 1233315,
+    "tx_fees_paid_to_miners_eth": 936.6303167666945,
+    "tx_fees_paid_to_miners_usd": 3739585.1230367953,
+    "avg_tx_fee_paid_to_miners_usd": 3.032141118073481,
+    "tx_fees_paid_by_users_usd": 32443687.315095995,
+    "avg_fees_paid_by_users_usd": 26.30608345402107
+  },
+  {
+    "utc_date": "2021-12-23",
+    "tx_count": 1245242,
+    "tx_fees_paid_to_miners_eth": 1393.8961589924684,
+    "tx_fees_paid_to_miners_usd": 5733833.571940563,
+    "avg_tx_fee_paid_to_miners_usd": 4.604593783329315,
+    "tx_fees_paid_by_users_usd": 31739627.541103806,
+    "avg_fees_paid_by_users_usd": 25.488722305466574
+  },
+  {
+    "utc_date": "2021-12-24",
+    "tx_count": 1298329,
+    "tx_fees_paid_to_miners_eth": 1087.2556069900813,
+    "tx_fees_paid_to_miners_usd": 4408949.0941989375,
+    "avg_tx_fee_paid_to_miners_usd": 3.3958642949506155,
+    "tx_fees_paid_by_users_usd": 30650928.79730128,
+    "avg_fees_paid_by_users_usd": 23.60798287437258
+  },
+  {
+    "utc_date": "2021-12-25",
+    "tx_count": 1299519,
+    "tx_fees_paid_to_miners_eth": 787.3066326123272,
+    "tx_fees_paid_to_miners_usd": 3236280.4977528127,
+    "avg_tx_fee_paid_to_miners_usd": 2.4903679728828996,
+    "tx_fees_paid_by_users_usd": 24138356.911359947,
+    "avg_fees_paid_by_users_usd": 18.57483954552411
+  },
+  {
+    "utc_date": "2021-12-26",
+    "tx_count": 1206942,
+    "tx_fees_paid_to_miners_eth": 633.8293776701493,
+    "tx_fees_paid_to_miners_usd": 2582874.7550249742,
+    "avg_tx_fee_paid_to_miners_usd": 2.140015638717498,
+    "tx_fees_paid_by_users_usd": 31732170.72370573,
+    "avg_fees_paid_by_users_usd": 26.29137996996188
+  },
+  {
+    "utc_date": "2021-12-27",
+    "tx_count": 1252037,
+    "tx_fees_paid_to_miners_eth": 882.0049289746937,
+    "tx_fees_paid_to_miners_usd": 3567755.2287609857,
+    "avg_tx_fee_paid_to_miners_usd": 2.849560539154183,
+    "tx_fees_paid_by_users_usd": 41134935.71154865,
+    "avg_fees_paid_by_users_usd": 32.854409024292934
+  },
+  {
+    "utc_date": "2021-12-28",
+    "tx_count": 1241032,
+    "tx_fees_paid_to_miners_eth": 1124.4967751314468,
+    "tx_fees_paid_to_miners_usd": 4281364.455016131,
+    "avg_tx_fee_paid_to_miners_usd": 3.4498421112558986,
+    "tx_fees_paid_by_users_usd": 47624732.06858922,
+    "avg_fees_paid_by_users_usd": 38.37510400101627
+  },
+  {
+    "utc_date": "2021-12-29",
+    "tx_count": 1252468,
+    "tx_fees_paid_to_miners_eth": 1275.946076819658,
+    "tx_fees_paid_to_miners_usd": 4650064.921600691,
+    "avg_tx_fee_paid_to_miners_usd": 3.7127215398722293,
+    "tx_fees_paid_by_users_usd": 40738333.20977178,
+    "avg_fees_paid_by_users_usd": 32.526446352139764
+  },
+  {
+    "utc_date": "2021-12-30",
+    "tx_count": 1255688,
+    "tx_fees_paid_to_miners_eth": 1093.6301288451793,
+    "tx_fees_paid_to_miners_usd": 4062776.2778242314,
+    "avg_tx_fee_paid_to_miners_usd": 3.2354982111991446,
+    "tx_fees_paid_by_users_usd": 35398027.630036175,
+    "avg_fees_paid_by_users_usd": 28.19014566519404
+  },
+  {
+    "utc_date": "2021-12-31",
+    "tx_count": 1214585,
+    "tx_fees_paid_to_miners_eth": 881.0174197333822,
+    "tx_fees_paid_to_miners_usd": 3247784.8559174314,
+    "avg_tx_fee_paid_to_miners_usd": 2.673987292711034,
+    "tx_fees_paid_by_users_usd": 30624756.66154235,
+    "avg_fees_paid_by_users_usd": 25.214173286795365
+  },
+  { "utc_date": "2022-01-01", "tx_count": 1180989, "tx_fees_paid_to_miners_eth": 747.2049768916279 }
+]

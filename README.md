@@ -24,6 +24,8 @@ Run the script with `python coingecko.py`
 
 [fee burn](https://snowtrace.io/chart/dailyburnt)
 
+[fee count](https://snowtrace.io/chart/tx)
+
 ## Solana
 
 To run the solana script with updated data copy and paste the data from the graphql query below into `data/sol/solana.json`.
