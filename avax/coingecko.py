@@ -79,8 +79,12 @@ for day_fee_burn, day_daily_fees in zip(last_30_days_fee_burn, daily_fees):
     daily_price = res_data.get('market_data').get('current_price').get('usd')
 
     fee_burn_usd += daily_price * fee_burn
+
+    day_daily_fees['approx_fees_paid_to_miners_usd'] = day_daily_fees.get(
+        'approx_fees_paid_by_users_usd') - daily_price * float(fee_burn)
+
     day_daily_fees['avg_fees_paid_to_miners_usd'] = day_daily_fees.get(
-        'approx_fees_paid_by_users_usd') - fee_burn_usd
+        'approx_fees_paid_to_miners_usd') / day_daily_fees.get('tx_count')
 
 file = open('data/avax/avax.json', 'w')
 file.write(json.dumps(daily_fees))
